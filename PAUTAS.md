@@ -13,12 +13,13 @@ política só com aprovação humana.
 | CF-0002 | 16/10 19h | Carrossel | R$ 1,81 de cada litro de gasolina é imposto | Petrobras, composição de preços (ANP, Cepea/USP), 4 a 10/10/2026 |
 | CF-0005 | 17/10 12h | Reel | O Brasil tem mais celulares que gente? (102,8 acessos por 100 hab.) | Anatel, Relatório de Monitoramento da Competição 2T2026, p. 8 (15/07/2026) |
 | CF-0004 | 17/10 19h | Carrossel | O que subiu de preço em setembro (tomate 37,76%; luz = 39% do IPCA) | IBGE, release do IPCA de setembro/2026 (09/10/2026) |
+| CF-0007 | 18/10 12h | Reel | Golpe do falso parente ("troquei de número") | Febraban, "Conheça os principais golpes aplicados com o uso do celular" (25/04/2024) |
+| CF-0006 | 18/10 19h | Carrossel | Quanto o Pix movimenta por dia? (mais de R$ 95 bi; recorde de 313 mi transações) | Banco Central, Relatório de Gestão do Pix 2023-2025, p. 14-15 |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 18/10 | Quanto o Pix movimenta por dia? | Golpe do falso parente | Banco Central; Anuário FBSP |
 | 19/10 | Horas de trabalho para pagar a cesta básica por capital | Cidades com menos de 5 mil habitantes | DIEESE; IBGE Censo 2022 |
 | 20/10 | Quantas famílias estão endividadas? | Código por SMS: por que nunca passar | CNC (Peic); Banco Central e Febraban |
 | 21/10 | Quanto do PIB vira imposto? | O tamanho do Brasil comparado à Europa | Receita Federal; IBGE e Eurostat |
@@ -35,6 +36,9 @@ política só com aprovação humana.
 
 - 16/10 (pauta de 17/10): a versão "12 meses por item" não foi confirmada (dados só no SIDRA, inacessível pelas ferramentas). Pauta adaptada para a variação de setembro, que está no release do IBGE.
 - 16/10 (CF-0005): o relatório da Anatel traz 276,4 milhões de acessos (p. 7) e 102,8 acessos/100 hab. (p. 8), que não batem com a população do IBGE (214,2 mi). Usamos só a densidade publicada pela Anatel; o total ficou fora.
+
+- 17/10 (CF-0006): estatísticas mensais do Pix de 2026 (Olinda/BCB) não acessíveis pelas ferramentas; usado o Relatório de Gestão do Pix 2023-2025 (dados de 2025). Médias diárias são contas nossas sobre "mais de R$ 35 tri" e "quase 80 bi".
+- 17/10 (CF-0007): o Anuário FBSP não detalha o golpe do falso parente; fonte trocada pelo alerta da Febraban (sem números no Reel).
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
