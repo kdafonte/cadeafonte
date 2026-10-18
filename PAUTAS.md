@@ -15,12 +15,13 @@ política só com aprovação humana.
 | CF-0004 | 17/10 19h | Carrossel | O que subiu de preço em setembro (tomate 37,76%; luz = 39% do IPCA) | IBGE, release do IPCA de setembro/2026 (09/10/2026) |
 | CF-0007 | 18/10 12h | Reel | Golpe do falso parente ("troquei de número") | Febraban, "Conheça os principais golpes aplicados com o uso do celular" (25/04/2024) |
 | CF-0006 | 18/10 19h | Carrossel | Quanto o Pix movimenta por dia? (mais de R$ 95 bi; recorde de 313 mi transações) | Banco Central, Relatório de Gestão do Pix 2023-2025, p. 14-15 |
+| CF-0009 | 19/10 12h | Reel | Quase metade das cidades tem menos de 10 mil habitantes (2.467; menor: Serra da Saudade, 857) | IBGE, Estimativas da População 2026 (28/08/2026, ref. 01/07/2026) |
+| CF-0008 | 19/10 19h | Carrossel | Horas de trabalho para pagar a cesta básica (SP 125h12; média 102h11; Aracaju 79h46) | DIEESE/Conab, Cesta Básica set/2026, Tabela 1, p. 4 (09/10/2026) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 19/10 | Horas de trabalho para pagar a cesta básica por capital | Cidades com menos de 5 mil habitantes | DIEESE; IBGE Censo 2022 |
 | 20/10 | Quantas famílias estão endividadas? | Código por SMS: por que nunca passar | CNC (Peic); Banco Central e Febraban |
 | 21/10 | Quanto do PIB vira imposto? | O tamanho do Brasil comparado à Europa | Receita Federal; IBGE e Eurostat |
 | 22/10 | O salário mínimo compra mais ou menos que há 10 anos? | Golpe do boleto falso | DIEESE + IBGE; Febraban |
@@ -39,6 +40,8 @@ política só com aprovação humana.
 
 - 17/10 (CF-0006): estatísticas mensais do Pix de 2026 (Olinda/BCB) não acessíveis pelas ferramentas; usado o Relatório de Gestão do Pix 2023-2025 (dados de 2025). Médias diárias são contas nossas sobre "mais de R$ 35 tri" e "quase 80 bi".
 - 17/10 (CF-0007): o Anuário FBSP não detalha o golpe do falso parente; fonte trocada pelo alerta da Febraban (sem números no Reel).
+- 18/10 (CF-0009): o recorte "até 5 mil habitantes" do Censo 2022 não foi acessível na fonte primária (PDF do IBGE truncado; sites do IBGE bloqueados para download). Pauta adaptada para "menos de 10 mil", que está no release das Estimativas 2026. O release traz 49.886.420 no texto e 42.886.420 na tabela para os municípios com mais de 1 milhão; dado não usado.
+- 18/10 (CF-0008): a nota do DIEESE não descreve a jornada de 220 h; conferimos que a Tabela 1 bate com preço ÷ R$ 1.621 × 220.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
