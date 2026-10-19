@@ -17,12 +17,13 @@ política só com aprovação humana.
 | CF-0006 | 18/10 19h | Carrossel | Quanto o Pix movimenta por dia? (mais de R$ 95 bi; recorde de 313 mi transações) | Banco Central, Relatório de Gestão do Pix 2023-2025, p. 14-15 |
 | CF-0009 | 19/10 12h | Reel | Quase metade das cidades tem menos de 10 mil habitantes (2.467; menor: Serra da Saudade, 857) | IBGE, Estimativas da População 2026 (28/08/2026, ref. 01/07/2026) |
 | CF-0008 | 19/10 19h | Carrossel | Horas de trabalho para pagar a cesta básica (SP 125h12; média 102h11; Aracaju 79h46) | DIEESE/Conab, Cesta Básica set/2026, Tabela 1, p. 4 (09/10/2026) |
+| CF-0011 | 20/10 12h | Reel | Código por SMS: por que nunca passar (sem números) | Febraban, "Conheça os principais golpes aplicados com o uso do celular" (25/04/2024); Idec, "Golpe do WhatsApp: o que fazer" (atual. 01/10/2024) |
+| CF-0010 | 20/10 19h | Carrossel | Quantas famílias estão endividadas? (81,7% com dívidas a vencer; 29,6% com atraso; 12,5% sem condições de pagar) | CNC, Peic set/2026, divulgada em 08/10/2026 (Portal do Comércio) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 20/10 | Quantas famílias estão endividadas? | Código por SMS: por que nunca passar | CNC (Peic); Banco Central e Febraban |
 | 21/10 | Quanto do PIB vira imposto? | O tamanho do Brasil comparado à Europa | Receita Federal; IBGE e Eurostat |
 | 22/10 | O salário mínimo compra mais ou menos que há 10 anos? | Golpe do boleto falso | DIEESE + IBGE; Febraban |
 | 23/10 | Juros do rotativo do cartão | Quantos brasileiros não usam internet? | Banco Central; IBGE PNAD ou Cetic.br |
@@ -42,6 +43,8 @@ política só com aprovação humana.
 - 17/10 (CF-0007): o Anuário FBSP não detalha o golpe do falso parente; fonte trocada pelo alerta da Febraban (sem números no Reel).
 - 18/10 (CF-0009): o recorte "até 5 mil habitantes" do Censo 2022 não foi acessível na fonte primária (PDF do IBGE truncado; sites do IBGE bloqueados para download). Pauta adaptada para "menos de 10 mil", que está no release das Estimativas 2026. O release traz 49.886.420 no texto e 42.886.420 na tabela para os municípios com mais de 1 milhão; dado não usado.
 - 18/10 (CF-0008): a nota do DIEESE não descreve a jornada de 220 h; conferimos que a Tabela 1 bate com preço ÷ R$ 1.621 × 220.
+- 19/10 (CF-0010): o PDF da análise e a planilha da Peic (portal-bucket.azureedge.net) não foram acessíveis (PDF sem texto; download bloqueado). Números conferidos no release oficial da CNC no Portal do Comércio (08/10/2026) e corroborados pelo Monitor Mercantil. Tipos de dívida (% cartão etc.) e comprometimento de renda ficaram fora por não estarem no release; o dado de 28,85% do Banco Central citado pela imprensa não foi usado.
+- 19/10 (CF-0011): Banco Central não usado; o Reel não traz números.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.

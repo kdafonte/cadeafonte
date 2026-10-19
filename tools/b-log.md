@@ -8,6 +8,7 @@
 - 20/10: Grupo B não paga reativo excedente (REN Aneel 1.000/2021, art. 303)
 - 21/10: Lei 14.300/2022, marco legal da geração distribuída
 - 22/10: bandeira é revista todo mês; decisão de novembro em 30/10
+- 23/10: Tarifa Branca (Grupo B): 3 postos em dias úteis; fins de semana e feriados nacionais sempre fora de ponta (página Aneel, atual. 11/11/2025)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -17,3 +18,4 @@
 - 20/10: usina solar não precisa de manutenção
 - 21/10: horário de ponta é igual no país todo
 - 22/10: solar só compensa em casa (Shopping Gallo, quase metade do consumo gerado no prédio)
+- 23/10: com solar a conta zera (Lei 14.300/2022, arts. 16, 26 e 27: valor mínimo faturável e cobrança gradual sobre energia compensada)
