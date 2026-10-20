@@ -19,12 +19,13 @@ política só com aprovação humana.
 | CF-0008 | 19/10 19h | Carrossel | Horas de trabalho para pagar a cesta básica (SP 125h12; média 102h11; Aracaju 79h46) | DIEESE/Conab, Cesta Básica set/2026, Tabela 1, p. 4 (09/10/2026) |
 | CF-0011 | 20/10 12h | Reel | Código por SMS: por que nunca passar (sem números) | Febraban, "Conheça os principais golpes aplicados com o uso do celular" (25/04/2024); Idec, "Golpe do WhatsApp: o que fazer" (atual. 01/10/2024) |
 | CF-0010 | 20/10 19h | Carrossel | Quantas famílias estão endividadas? (81,7% com dívidas a vencer; 29,6% com atraso; 12,5% sem condições de pagar) | CNC, Peic set/2026, divulgada em 08/10/2026 (Portal do Comércio) |
+| CF-0013 | 21/10 12h | Reel | O tamanho do Brasil comparado à Europa (Brasil = 2,01 x UE; 92 Portugais) | IBGE, Áreas Territoriais (8.510.417,822 km²); Eurostat reg_area3, área total 2025 |
+| CF-0012 | 21/10 19h | Carrossel | Quanto do PIB vira imposto? (32,40% em 2025; consumo = 42,5% da arrecadação) | Tesouro Nacional, Boletim da Carga Tributária Bruta do Governo Geral 2025 (10/04/2026) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 21/10 | Quanto do PIB vira imposto? | O tamanho do Brasil comparado à Europa | Receita Federal; IBGE e Eurostat |
 | 22/10 | O salário mínimo compra mais ou menos que há 10 anos? | Golpe do boleto falso | DIEESE + IBGE; Febraban |
 | 23/10 | Juros do rotativo do cartão | Quantos brasileiros não usam internet? | Banco Central; IBGE PNAD ou Cetic.br |
 | 24/10 | Quanto vive o brasileiro hoje? | Golpe das "tarefas pagas" | IBGE (tábua de mortalidade); Procon e Febraban |
@@ -45,6 +46,8 @@ política só com aprovação humana.
 - 18/10 (CF-0008): a nota do DIEESE não descreve a jornada de 220 h; conferimos que a Tabela 1 bate com preço ÷ R$ 1.621 × 220.
 - 19/10 (CF-0010): o PDF da análise e a planilha da Peic (portal-bucket.azureedge.net) não foram acessíveis (PDF sem texto; download bloqueado). Números conferidos no release oficial da CNC no Portal do Comércio (08/10/2026) e corroborados pelo Monitor Mercantil. Tipos de dívida (% cartão etc.) e comprometimento de renda ficaram fora por não estarem no release; o dado de 28,85% do Banco Central citado pela imprensa não foi usado.
 - 19/10 (CF-0011): Banco Central não usado; o Reel não traz números.
+- 20/10 (CF-0012): fonte trocada da Receita Federal para a estimativa do Tesouro (2025, preliminar), por ser o dado mais recente; o PDF do boletim não foi localizado, números conferidos na nota oficial do Tesouro (10/04/2026). Não afirmamos recorde (a nota não diz). Nível por esfera (União/estados/municípios) não disponível no texto; ficou fora.
+- 20/10 (CF-0013): área do Brasil pela página do IBGE (cálculo 2023, 8.510.417,822 km²); UE, Portugal, Espanha e Alemanha pela API da Eurostat (reg_area3, 2025, área total). França ficou fora (área inclui regiões ultramarinas).
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
