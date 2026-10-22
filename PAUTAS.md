@@ -23,13 +23,14 @@ política só com aprovação humana.
 | CF-0012 | 21/10 19h | Carrossel | Quanto do PIB vira imposto? (32,40% em 2025; consumo = 42,5% da arrecadação) | Tesouro Nacional, Boletim da Carga Tributária Bruta do Governo Geral 2025 (10/04/2026) |
 | CF-0015 | 22/10 12h | Reel | Golpe do boleto falso: 4 checagens antes de pagar (sem números) | Febraban, "Febraban dá dicas para pagar boletos com segurança e evitar golpes" (19/03/2024); Febraban, alerta "Golpe Falso Boleto" (05/04/2025) |
 | CF-0014 | 22/10 19h | Carrossel | O mínimo de hoje compra mais que o de 2016? (R$ 880 → R$ 1.621; +84,2% nominal; +12,5% real pelo INPC; cestas SP 2,04 em 2019 x 1,93 jan/26) | DIEESE, Nota Técnica 289 (22/12/2025), Tabela 1 p. 8 e Gráfico 2 p. 7 |
+| CF-0017 | 23/10 12h | Reel | Quantos brasileiros não usam internet? (90,5% usaram; 17,7 mi fora; 44,9% não sabem usar) | IBGE, PNAD Contínua TIC 2025 (Agência IBGE, 02/07/2026) |
+| CF-0016 | 23/10 19h | Carrossel | Quanto vive o brasileiro hoje? (76,6 anos em 2024; 45,5 em 1940; 72,8 em 2021; aos 60, +22,6) | IBGE, Tábua Completa de Mortalidade para o Brasil 2024, Tabelas 1 e 4 |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 23/10 | Juros do rotativo do cartão | Quantos brasileiros não usam internet? | Banco Central; IBGE PNAD ou Cetic.br |
-| 24/10 | Quanto vive o brasileiro hoje? | Golpe das "tarefas pagas" | IBGE (tábua de mortalidade); Procon e Febraban |
+| 24/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Golpe das "tarefas pagas" | Banco Central (Estatísticas monetárias e de crédito); Procon e Febraban |
 | 25/10 | Os nomes mais comuns do Brasil | Por que o Brasil tem quatro fusos horários? | IBGE Censo 2022; Lei 12.876/2013 |
 | 26/10 | O que a taxa de desemprego mede e o que não mede | Golpe da maquininha e do QR Code | IBGE PNAD Contínua; Anuário FBSP |
 | 27/10 | Quanto da conta de luz é imposto e encargo? | O Brasil tem mais bois que pessoas? | ANEEL; IBGE (PPM e população) |
@@ -51,6 +52,9 @@ política só com aprovação humana.
 - 20/10 (CF-0013): área do Brasil pela página do IBGE (cálculo 2023, 8.510.417,822 km²); UE, Portugal, Espanha e Alemanha pela API da Eurostat (reg_area3, 2025, área total). França ficou fora (área inclui regiões ultramarinas).
 - 21/10 (CF-0014): deflator = INPC dos reajustes (Tabela 1 do DIEESE, jan/17 a jan/26), não o IPCA; conta conferida também pelo produto dos aumentos reais da tabela (1,1247). Cestas por mínimo são da cidade de São Paulo (médias anuais; jan/26 é cálculo do DIEESE de dez/2025); não há série de cestas antes de 2019 no documento. Cesta de set/2026 não usada.
 - 21/10 (CF-0015): Reel sem números; os números da PCR citados na nota da Febraban (R$ 450 mi em fraudes evitadas etc.) ficaram fora.
+- 22/10 (rotativo, descartada para 23/10): a nota do Banco Central com os dados de agosto/2026 (444,9% a.a. segundo a imprensa; outro veículo trouxe 449,4%) não foi acessível pelas ferramentas; só havia matérias. Pauta adiada para 24/10 e substituída pela de expectativa de vida.
+- 22/10 (CF-0016): Tábua 2024 do IBGE (PDF da biblioteca); Agência IBGE fora do ar. O texto do IBGE fala em ganho de 2,5 meses, mas a conta 76,6 − 76,4 é menor; ganho em meses não usado. Mortalidade infantil (12,3 por mil) ficou fora.
+- 22/10 (CF-0017): o número de não usuários de 2024 não estava citado no texto da Agência IBGE; usado só 89,2% de usuários em 2024. Motivos econômicos (9,0%) não usados.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
