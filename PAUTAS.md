@@ -25,17 +25,18 @@ política só com aprovação humana.
 | CF-0014 | 22/10 19h | Carrossel | O mínimo de hoje compra mais que o de 2016? (R$ 880 → R$ 1.621; +84,2% nominal; +12,5% real pelo INPC; cestas SP 2,04 em 2019 x 1,93 jan/26) | DIEESE, Nota Técnica 289 (22/12/2025), Tabela 1 p. 8 e Gráfico 2 p. 7 |
 | CF-0017 | 23/10 12h | Reel | Quantos brasileiros não usam internet? (90,5% usaram; 17,7 mi fora; 44,9% não sabem usar) | IBGE, PNAD Contínua TIC 2025 (Agência IBGE, 02/07/2026) |
 | CF-0016 | 23/10 19h | Carrossel | Quanto vive o brasileiro hoje? (76,6 anos em 2024; 45,5 em 1940; 72,8 em 2021; aos 60, +22,6) | IBGE, Tábua Completa de Mortalidade para o Brasil 2024, Tabelas 1 e 4 |
+| CF-0019 | 24/10 12h | Reel | Golpe da tarefa: pagar para "curtir posts" (R$ 100 a R$ 1.500/dia prometidos; depositar R$ 1.000 para receber R$ 1.500) | Febraban, "Febraban alerta para o golpe da tarefa" (10/01/2024) |
+| CF-0018 | 24/10 19h | Carrossel | O que a taxa de desemprego mede e o que não mede (5,3%; 5,8 mi desocupados; 2,4 mi desalentados; 15,0 mi subutilizados, 13,1%; informalidade 37,5% = 38,8 mi) | IBGE, PNAD Contínua jun-ago/2026 (release 29/09/2026); Glossário PNAD Contínua; nota "Novos indicadores sobre a força de trabalho" |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 24/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Golpe das "tarefas pagas" | Banco Central (Estatísticas monetárias e de crédito); Procon e Febraban |
-| 25/10 | Os nomes mais comuns do Brasil | Por que o Brasil tem quatro fusos horários? | IBGE Censo 2022; Lei 12.876/2013 |
-| 26/10 | O que a taxa de desemprego mede e o que não mede | Golpe da maquininha e do QR Code | IBGE PNAD Contínua; Anuário FBSP |
-| 27/10 | Quanto da conta de luz é imposto e encargo? | O Brasil tem mais bois que pessoas? | ANEEL; IBGE (PPM e população) |
-| 28/10 | A poupança ganhou ou perdeu da inflação? | Quantos brasileiros moram sozinhos? | Banco Central + IBGE; IBGE Censo 2022 |
-| 29/10 | Os golpes mais comuns segundo o Anuário | Pix: o que fazer nos primeiros minutos após um golpe | Anuário FBSP; Banco Central (MED) |
+| 25/10 | Quanto da conta de luz é imposto e encargo? | Por que o Brasil tem quatro fusos horários? | ANEEL; Lei 12.876/2013 |
+| 26/10 | A poupança ganhou ou perdeu da inflação? | Golpe da maquininha e do QR Code | Banco Central + IBGE; Anuário FBSP / Febraban |
+| 27/10 | Os golpes mais comuns segundo o Anuário | O Brasil tem mais bois que pessoas? | Anuário FBSP; IBGE (PPM e população) |
+| 28/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Quantos brasileiros moram sozinhos? | Banco Central (Estatísticas monetárias e de crédito); IBGE Censo 2022 |
+| 29/10 | Os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE) | Pix: o que fazer nos primeiros minutos após um golpe | IBGE, Nomes no Brasil (Censo 2022); Banco Central (MED) |
 
 ## Notas de apuração
 
@@ -55,6 +56,10 @@ política só com aprovação humana.
 - 22/10 (rotativo, descartada para 23/10): a nota do Banco Central com os dados de agosto/2026 (444,9% a.a. segundo a imprensa; outro veículo trouxe 449,4%) não foi acessível pelas ferramentas; só havia matérias. Pauta adiada para 24/10 e substituída pela de expectativa de vida.
 - 22/10 (CF-0016): Tábua 2024 do IBGE (PDF da biblioteca); Agência IBGE fora do ar. O texto do IBGE fala em ganho de 2,5 meses, mas a conta 76,6 − 76,4 é menor; ganho em meses não usado. Mortalidade infantil (12,3 por mil) ficou fora.
 - 22/10 (CF-0017): o número de não usuários de 2024 não estava citado no texto da Agência IBGE; usado só 89,2% de usuários em 2024. Motivos econômicos (9,0%) não usados.
+- 23/10 (rotativo, descartada de novo para 24/10): a série SGS 22022 do Banco Central (api.bcb.gov.br) e a nota de agosto/2026 não foram acessíveis pelas ferramentas (proxy/permissão); só havia matérias. Pauta movida para 28/10.
+- 23/10 (nomes mais comuns, descartada para 24/10): a plataforma "Nomes no Brasil" (censo2022.ibge.gov.br/nomes) não abriu; a nota técnica do IBGE não traz ranking nem contagens; a Agência IBGE não lista os números; o Poder360 traz duas contagens diferentes para Maria (12.284.478 e 12.224.470). Movida para 29/10.
+- 23/10 (CF-0018): pauta de desemprego antecipada de 26/10. Definições do Glossário da PNAD Contínua e da nota "Novos indicadores sobre a força de trabalho" (IBGE). Força de trabalho potencial não está no release; não derivamos (15,0 − 5,8 − 4,3 = 4,9 não bate com 13,1% por arredondamento). Os desalentados fazem parte da força de trabalho potencial; as barras não são somadas.
+- 23/10 (CF-0019): pauta da tarefa pela página da Febraban (10/01/2024); valores são os citados no alerta, sem estatística de vítimas.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
