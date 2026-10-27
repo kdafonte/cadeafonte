@@ -29,12 +29,13 @@ política só com aprovação humana.
 | CF-0018 | 24/10 19h | Carrossel | O que a taxa de desemprego mede e o que não mede (5,3%; 5,8 mi desocupados; 2,4 mi desalentados; 15,0 mi subutilizados, 13,1%; informalidade 37,5% = 38,8 mi) | IBGE, PNAD Contínua jun-ago/2026 (release 29/09/2026); Glossário PNAD Contínua; nota "Novos indicadores sobre a força de trabalho" |
 | CF-0021 | 25/10 12h | Reel | Por que o Brasil tem quatro fusos horários? (−2 Noronha e Trindade; −3 DF + 20 estados; −4 MT, MS, RO, RR, leste do AM; −5 AC e oeste do AM; fuso −5 extinto em 2008 e restabelecido em 2013) | Decreto 2.784/1913, art. 2º, texto atualizado (Câmara); Leis 11.662/2008 e 12.876/2013 |
 | CF-0020 | 25/10 19h | Carrossel | Quanto da tarifa de luz é encargo? (20,91% = CDE 15,52% + encargos 5,39% da receita requerida de R$ 155,9 bi; ≈ R$ 32,6 bi; CDE 2026 provisória R$ 52,7 bi, R$ 47,8 bi em quotas; tributos só qualitativos) | MME, Informativo Tarifário do Setor Elétrico, 1º sem./2026, Gráfico 1 p. 12 e p. 25-26; MME, "Entenda cada item cobrado na conta de luz" (03/07/2026) |
+| CF-0022 | 28/10 12h | Reel | Golpe da maquininha: visor quebrado e troca de cartão (sem números) | Febraban, "Febraban alerta para golpes com maquininhas de cartão" (28/08/2025) |
+| CF-0028 | 28/10 19h | Carrossel | A poupança ganhou ou perdeu da inflação? (0,5% a.m. + TR com Selic > 8,5%; 6,17% só a parte fixa x IPCA 4,58% em 12 meses até set/2026; ganho real mínimo 1,52%; Selic 13,75%) | Lei 8.177/1991, art. 12 (Lei 12.703/2012); IBGE, IPCA set/2026 (09/10/2026); BCB, RPM set/2026 p. 7 e Ata Copom 279; Res. CMN 4.624/2018, art. 6º |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 26/10 | A poupança ganhou ou perdeu da inflação? | Golpe da maquininha e do QR Code | Banco Central + IBGE; Anuário FBSP / Febraban |
 | 27/10 | Os golpes mais comuns segundo o Anuário | O Brasil tem mais bois que pessoas? | Anuário FBSP; IBGE (PPM e população) |
 | 28/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Quantos brasileiros moram sozinhos? | Banco Central (Estatísticas monetárias e de crédito); IBGE Censo 2022 |
 | 29/10 | Os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE) | Pix: o que fazer nos primeiros minutos após um golpe | IBGE, Nomes no Brasil (Censo 2022); Banco Central (MED) |
@@ -63,6 +64,9 @@ política só com aprovação humana.
 - 23/10 (CF-0019): pauta da tarefa pela página da Febraban (10/01/2024); valores são os citados no alerta, sem estatística de vítimas.
 - 24/10 (CF-0020): fonte trocada da ANEEL para o Informativo Tarifário do MME (dado mais recente com percentuais; páginas da ANEEL sem números). A divisão é da receita requerida das distribuidoras (jan-jun/2026) e não inclui tributos; o peso de ICMS e PIS/Cofins não está no documento e ficou fora (sem números de imposto). Composição da Abradee citada pela CNN (18,14% de tributos) não usada por não ser fonte primária. Orçamento da CDE 2026 é o provisório (CP 44/2025) citado no informativo; PDF baixado só pela leitura da ferramenta (download direto bloqueado).
 - 24/10 (CF-0021): texto do Decreto 2.784/1913 conferido na norma atualizada da Câmara (alíneas a, b, c, e; d revogada). Horário de verão e diferenças em relação a Brasília não usados (situação do horário de verão em 2026 não confirmada em fonte oficial). Referendo do Acre de 2010 não usado (só fonte secundária).
+- 27/10 (calendário): nada do Cadê a Fonte estava agendado para 26 e 27/10 no Metricool; a rotina produz só o dia seguinte, então a pauta de 26/10 foi usada em 28/10. Códigos CF-0023 a CF-0027 ficaram reservados aos roteiros do branch roteiros/reels-27a30-out (não mesclado); por isso o carrossel recebeu CF-0028.
+- 27/10 (CF-0022): o alerta da Febraban (28/08/2025) não fala de QR Code; a parte do QR Code saiu da pauta. Reel sem números.
+- 27/10 (CF-0028): rendimento efetivo da poupança (série SGS 195) e TR não acessíveis (api.bcb.gov.br e www3.bcb.gov.br bloqueados pelo proxy). A conta usa só a parte fixa (0,5% a.m. da lei), que é um piso porque a TR não pode ser negativa (Res. CMN 4.624/2018, art. 6º, max{0; ...}). Selic: 13,75% após a reunião de 15-16/09/2026 (RPM set/2026, p. 7) e 14,25% após a de 16-17/06/2026 (Ata 279, §23); os documentos falam em cortes, então a Selic ficou acima de 8,5% em todo o período. A poupança rende por aniversário, e a janela de 12 meses do IPCA (out/25 a set/26) é aproximada. Não usamos comparação com CDI/Tesouro nem IR.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
