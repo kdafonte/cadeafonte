@@ -31,14 +31,15 @@ política só com aprovação humana.
 | CF-0020 | 25/10 19h | Carrossel | Quanto da tarifa de luz é encargo? (20,91% = CDE 15,52% + encargos 5,39% da receita requerida de R$ 155,9 bi; ≈ R$ 32,6 bi; CDE 2026 provisória R$ 52,7 bi, R$ 47,8 bi em quotas; tributos só qualitativos) | MME, Informativo Tarifário do Setor Elétrico, 1º sem./2026, Gráfico 1 p. 12 e p. 25-26; MME, "Entenda cada item cobrado na conta de luz" (03/07/2026) |
 | CF-0022 | 28/10 12h | Reel | Golpe da maquininha: visor quebrado e troca de cartão (sem números) | Febraban, "Febraban alerta para golpes com maquininhas de cartão" (28/08/2025) |
 | CF-0028 | 28/10 19h | Carrossel | A poupança ganhou ou perdeu da inflação? (0,5% a.m. + TR com Selic > 8,5%; 6,17% só a parte fixa x IPCA 4,58% em 12 meses até set/2026; ganho real mínimo 1,52%; Selic 13,75%) | Lei 8.177/1991, art. 12 (Lei 12.703/2012); IBGE, IPCA set/2026 (09/10/2026); BCB, RPM set/2026 p. 7 e Ata Copom 279; Res. CMN 4.624/2018, art. 6º |
+| CF-0023 | 29/10 12h | Reel | O Brasil tem mais bois que gente? (234,3 mi bois x 214,2 mi pessoas = 109 por 100; MT 31,6 mi, 13,5%; São Félix do Xingu 2,7 mi; 1,6 bi galináceos ≈ 7,5 por pessoa) | IBGE, PPM 2025, informativo p. 2, 3 e 5 (ref. 31/12/2025); IBGE, Estimativas da População 2026 (ref. 01/07/2026) |
+| CF-0024 | 29/10 19h | Carrossel | Quase 1 em cada 5 lares tem um morador só (18,9% em 2022 x 12,2% em 2010; ≈ 13,7 mi; RJ 23,4% ... AP 12,0%; 28,7% entre responsáveis 60+) | IBGE, Censo 2022, "Composição domiciliar e óbitos informados", p. 37, 38 e 43; slides de divulgação |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 27/10 | Os golpes mais comuns segundo o Anuário | O Brasil tem mais bois que pessoas? | Anuário FBSP; IBGE (PPM e população) |
-| 28/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Quantos brasileiros moram sozinhos? | Banco Central (Estatísticas monetárias e de crédito); IBGE Censo 2022 |
-| 29/10 | Os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE) | Pix: o que fazer nos primeiros minutos após um golpe | IBGE, Nomes no Brasil (Censo 2022); Banco Central (MED) |
+| 30/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Pix: o que fazer nos primeiros minutos após um golpe (roteiro CF-0025 no branch; reconferir Guia MED 4.4) | Banco Central (Estatísticas monetárias e de crédito; Guia do MED) |
+| 31/10 | Os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE) | nova pauta no mix | IBGE, Nomes no Brasil (Censo 2022) |
 
 ## Notas de apuração
 
@@ -68,5 +69,10 @@ política só com aprovação humana.
 - 27/10 (CF-0022): o alerta da Febraban (28/08/2025) não fala de QR Code; a parte do QR Code saiu da pauta. Reel sem números.
 - 27/10 (CF-0028): rendimento efetivo da poupança (série SGS 195) e TR não acessíveis (api.bcb.gov.br e www3.bcb.gov.br bloqueados pelo proxy). A conta usa só a parte fixa (0,5% a.m. da lei), que é um piso porque a TR não pode ser negativa (Res. CMN 4.624/2018, art. 6º, max{0; ...}). Selic: 13,75% após a reunião de 15-16/09/2026 (RPM set/2026, p. 7) e 14,25% após a de 16-17/06/2026 (Ata 279, §23); os documentos falam em cortes, então a Selic ficou acima de 8,5% em todo o período. A poupança rende por aniversário, e a janela de 12 meses do IPCA (out/25 a set/26) é aproximada. Não usamos comparação com CDI/Tesouro nem IR.
 
+- 28/10 (golpes mais comuns segundo o Anuário, descartada): o infográfico do 20º Anuário FBSP (forumseguranca.org.br) não traz tipos de golpe; o PDF completo (cópia no Poder360) não foi acessível (binário/proxy bloqueado). Sem fonte primária para o ranking de modalidades; pauta fora da fila. Também repetiria o CF-0001.
+- 28/10 (rotativo, descartada pela 3ª vez para 29/10): busca só trouxe matérias e sites de terceiros; nenhuma nota do Banco Central com o dado de setembro/2026 acessível. Movida para 30/10.
+- 28/10 (calendário): carrossel de 29/10 trocado para "quem mora sozinho" (era Reel na fila de 28/10). Usados os códigos reservados CF-0023 (bois) e CF-0024 (mora sozinho), que eram dos roteiros do branch roteiros/reels-27a30-out para essas mesmas pautas; números atualizados.
+- 28/10 (CF-0023): PPM 2025 no informativo da biblioteca do IBGE (Agência IBGE fora do ar). População 214.211.951 (ref. 01/07/2026) do documento do DOU do IBGE, visto só no índice de busca (download bloqueado), corroborado pela Folha de Pernambuco (214,2 mi, 28/08/2026) e já usado no CF-0009. Datas de referência diferentes (rebanho em 31/12/2025; população em 01/07/2026), registrado na legenda. "Mais de 7 por pessoa" arredonda 7,47 para baixo.
+- 28/10 (CF-0024): 18,9%, UFs, idade e sexo pela publicação do Censo (liv102127, p. 37, 38, 43) e pelos slides de divulgação (12,2% em 2010; 72.522.372 unidades domésticas). Número absoluto não está nos documentos lidos: 13,7 mi é conta nossa (0,189 × 72.522.372; faixa 13,67 a 13,74 mi). O 13.620.844 da Agência IBGE não foi confirmado (página fora do ar) e não foi usado. Idade e sexo são do responsável pela unidade doméstica.
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
