@@ -33,12 +33,13 @@ política só com aprovação humana.
 | CF-0028 | 28/10 19h | Carrossel | A poupança ganhou ou perdeu da inflação? (0,5% a.m. + TR com Selic > 8,5%; 6,17% só a parte fixa x IPCA 4,58% em 12 meses até set/2026; ganho real mínimo 1,52%; Selic 13,75%) | Lei 8.177/1991, art. 12 (Lei 12.703/2012); IBGE, IPCA set/2026 (09/10/2026); BCB, RPM set/2026 p. 7 e Ata Copom 279; Res. CMN 4.624/2018, art. 6º |
 | CF-0023 | 29/10 12h | Reel | O Brasil tem mais bois que gente? (234,3 mi bois x 214,2 mi pessoas = 109 por 100; MT 31,6 mi, 13,5%; São Félix do Xingu 2,7 mi; 1,6 bi galináceos ≈ 7,5 por pessoa) | IBGE, PPM 2025, informativo p. 2, 3 e 5 (ref. 31/12/2025); IBGE, Estimativas da População 2026 (ref. 01/07/2026) |
 | CF-0024 | 29/10 19h | Carrossel | Quase 1 em cada 5 lares tem um morador só (18,9% em 2022 x 12,2% em 2010; ≈ 13,7 mi; RJ 23,4% ... AP 12,0%; 28,7% entre responsáveis 60+) | IBGE, Censo 2022, "Composição domiciliar e óbitos informados", p. 37, 38 e 43; slides de divulgação |
+| CF-0025 | 30/10 12h | Reel | Caiu num golpe do Pix? O que fazer (MED: contestar no app; bloqueio na conta recebedora; análise em 7 dias corridos; até 80 dias; devolução depende de saldo) | Banco Central, Guia MED versão 4.4, seções 4.2.4, 4.6.1 e 6 |
+| CF-0029 | 30/10 19h | Carrossel | O rotativo do cartão tem teto (juros + encargos ≤ 100% da dívida original; rotativo só até a fatura seguinte; parcelamento em condições mais vantajosas; exemplo R$ 1.000 → até R$ 2.000) | Lei 14.690/2023, art. 28, § 1º (via Voto CMN 67/2023, item 10); Res. CMN 4.549/2017, arts. 1º, 2º, 2º-A a 2º-D (Res. CMN 5.112/2023) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 30/10 | Juros do rotativo do cartão (só com a nota do BC aberta) | Pix: o que fazer nos primeiros minutos após um golpe (roteiro CF-0025 no branch; reconferir Guia MED 4.4) | Banco Central (Estatísticas monetárias e de crédito; Guia do MED) |
 | 31/10 | Os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE) | nova pauta no mix | IBGE, Nomes no Brasil (Censo 2022) |
 
 ## Notas de apuração
@@ -74,5 +75,8 @@ política só com aprovação humana.
 - 28/10 (calendário): carrossel de 29/10 trocado para "quem mora sozinho" (era Reel na fila de 28/10). Usados os códigos reservados CF-0023 (bois) e CF-0024 (mora sozinho), que eram dos roteiros do branch roteiros/reels-27a30-out para essas mesmas pautas; números atualizados.
 - 28/10 (CF-0023): PPM 2025 no informativo da biblioteca do IBGE (Agência IBGE fora do ar). População 214.211.951 (ref. 01/07/2026) do documento do DOU do IBGE, visto só no índice de busca (download bloqueado), corroborado pela Folha de Pernambuco (214,2 mi, 28/08/2026) e já usado no CF-0009. Datas de referência diferentes (rebanho em 31/12/2025; população em 01/07/2026), registrado na legenda. "Mais de 7 por pessoa" arredonda 7,47 para baixo.
 - 28/10 (CF-0024): 18,9%, UFs, idade e sexo pela publicação do Censo (liv102127, p. 37, 38, 43) e pelos slides de divulgação (12,2% em 2010; 72.522.372 unidades domésticas). Número absoluto não está nos documentos lidos: 13,7 mi é conta nossa (0,189 × 72.522.372; faixa 13,67 a 13,74 mi). O 13.620.844 da Agência IBGE não foi confirmado (página fora do ar) e não foi usado. Idade e sexo são do responsável pela unidade doméstica.
+- 29/10 (rotativo, número descartado pela 4ª vez): a nota de estatísticas monetárias e de crédito do BC mais recente acessível (202606, dados de maio/2026) não traz a taxa do rotativo; api.bcb.gov.br e dadosabertos.bcb.gov.br bloqueados pelo proxy. Pauta adaptada para as regras do rotativo (CF-0029), sem taxa de juros. A taxa segue fora da fila até a nota do BC ser lida.
+- 29/10 (CF-0029): Lei 14.690/2023 no Planalto bloqueada ("Acesso negado"); o texto do art. 28, § 1º foi conferido no Voto CMN 67/2023 (normativos.bcb.gov.br), que o transcreve. Res. CMN 4.549/2017 lida na versão consolidada (Res_4549_v2_L). A Res. CMN 5.112/2023 foi lida numa cópia no Poder360. O exemplo de R$ 1.000 é conta nossa. Data exata de início (90 dias após a lei) não afirmada.
+- 29/10 (CF-0025): Guia MED 4.4 (versoes_futuras, bcb.gov.br) confirma 80 dias, 7 dias corridos, bloqueio cautelar até 72 h (não usado no Reel), devolução só se houver recursos (4.6.1) e funcionalidade de contestação obrigatória no app para PF (seção 6). Recomendação de boletim de ocorrência retirada (não é do BC). Data de início do autoatendimento fora.
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
