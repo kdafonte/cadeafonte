@@ -35,12 +35,16 @@ política só com aprovação humana.
 | CF-0024 | 29/10 19h | Carrossel | Quase 1 em cada 5 lares tem um morador só (18,9% em 2022 x 12,2% em 2010; ≈ 13,7 mi; RJ 23,4% ... AP 12,0%; 28,7% entre responsáveis 60+) | IBGE, Censo 2022, "Composição domiciliar e óbitos informados", p. 37, 38 e 43; slides de divulgação |
 | CF-0025 | 30/10 12h | Reel | Caiu num golpe do Pix? O que fazer (MED: contestar no app; bloqueio na conta recebedora; análise em 7 dias corridos; até 80 dias; devolução depende de saldo) | Banco Central, Guia MED versão 4.4, seções 4.2.4, 4.6.1 e 6 |
 | CF-0029 | 30/10 19h | Carrossel | O rotativo do cartão tem teto (juros + encargos ≤ 100% da dívida original; rotativo só até a fatura seguinte; parcelamento em condições mais vantajosas; exemplo R$ 1.000 → até R$ 2.000) | Lei 14.690/2023, art. 28, § 1º (via Voto CMN 67/2023, item 10); Res. CMN 4.549/2017, arts. 1º, 2º, 2º-A a 2º-D (Res. CMN 5.112/2023) |
+| CF-0031 | 31/10 12h | Reel | Nenhum ponto do Brasil chega a 3 mil metros (Neblina 2.995,3 m; 31 de Março 2.974,2 m, −21,1 m; Bandeira 2.891,4 m; 31 dos 35 mais altos no Sudeste) | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.3.2.1 |
+| CF-0030 | 31/10 19h | Carrossel | As regras do 13º na lei (até 20/12; 1/12 por mês, 15 dias = mês; 1ª parcela fev-nov = metade do salário; nas férias se pedir em janeiro; exemplo R$ 3.000 → R$ 2.500) | Lei 4.090/1962, arts. 1º a 3º (Câmara, texto atualizado); Lei 4.749/1965, arts. 1º e 2º (normas.leg.br) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 31/10 | Os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE) | nova pauta no mix | IBGE, Nomes no Brasil (Censo 2022) |
+| 01/11 | nova pauta no mix | nova pauta no mix | a definir |
+
+Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
 ## Notas de apuração
 
@@ -78,5 +82,8 @@ política só com aprovação humana.
 - 29/10 (rotativo, número descartado pela 4ª vez): a nota de estatísticas monetárias e de crédito do BC mais recente acessível (202606, dados de maio/2026) não traz a taxa do rotativo; api.bcb.gov.br e dadosabertos.bcb.gov.br bloqueados pelo proxy. Pauta adaptada para as regras do rotativo (CF-0029), sem taxa de juros. A taxa segue fora da fila até a nota do BC ser lida.
 - 29/10 (CF-0029): Lei 14.690/2023 no Planalto bloqueada ("Acesso negado"); o texto do art. 28, § 1º foi conferido no Voto CMN 67/2023 (normativos.bcb.gov.br), que o transcreve. Res. CMN 4.549/2017 lida na versão consolidada (Res_4549_v2_L). A Res. CMN 5.112/2023 foi lida numa cópia no Poder360. O exemplo de R$ 1.000 é conta nossa. Data exata de início (90 dias após a lei) não afirmada.
 - 29/10 (CF-0025): Guia MED 4.4 (versoes_futuras, bcb.gov.br) confirma 80 dias, 7 dias corridos, bloqueio cautelar até 72 h (não usado no Reel), devolução só se houver recursos (4.6.1) e funcionalidade de contestação obrigatória no app para PF (seção 6). Recomendação de boletim de ocorrência retirada (não é do BC). Data de início do autoatendimento fora.
+- 30/10 (nomes mais comuns, descartada de novo para 31/10): censo2022.ibge.gov.br/nomes e servicodados.ibge.gov.br bloqueados (proxy 403/permissão). A CNN traz Maria com 12.224.470 e o Poder360 já havia trazido 12.284.478; sem fonte primária e com dados conflitantes. Volta ao banco reserva. Substituída pelas regras do 13º (CF-0030).
+- 30/10 (CF-0030): Lei 4.090/1962 lida no texto atualizado da Câmara; Lei 4.749/1965 em normas.leg.br (Planalto bloqueado). "Entre fevereiro e novembro" é o texto da lei; não afirmamos data exata do 30/11. Exemplo de R$ 3.000 é conta nossa (10/03 a 31/03 = 22 dias ≥ 15). Descontos de INSS/IR e regras de salário variável (Decreto 57.155/1965) ficaram fora.
+- 30/10 (CF-0031): Tabela 1.3.2.1 do Anuário 2024 (anuario.ibge.gov.br). Notas: 1 a 7 por GNSS + hgeoHNOR2020; os demais por outras bases (cartas 1:25.000, medições de campo, comissão de limites). A página da Agência IBGE sobre a revisão de 2016 não abriu; altitudes antigas e a ideia de que o pico "encolheu" ficaram fora. 31 de 35 é conta nossa (fora do Sudeste: n.º 1, 2 e 28 no AM, 7 em RR).
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.

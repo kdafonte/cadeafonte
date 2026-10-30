@@ -17,6 +17,7 @@
 - 29/10: PLD calculado para cada um dos 4 submercados (SE/CO, S, NE, N), em base horária desde 1º/01/2021 (CCEE, InfoPLD nº 734, 4ª sem. out/2025)
 
 - 30/10: renováveis = 86,8% da matriz elétrica em 2025 e 49,4% da matriz energética (EPE, BEN 2026, Relatório Síntese, p. 7 e 62)
+- 31/10: é vedado dividir central geradora em unidades menores para caber nos limites de micro/minigeração (Lei 14.300/2022, art. 11, § 2º)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -34,3 +35,4 @@
 - 28/10: quanto mais calor, mais o painel gera (CRESESB/Cepel, Tutorial de Energia Solar Fotovoltaica, p. 19-20: corrente cresce com a intensidade luminosa; eficiência cai com o aumento da temperatura)
 - 29/10: no mercado livre a conta sempre fica mais barata (CCEE, página "Mercado Livre – ACL": economia depende de contratos adequados; contratação inadequada pode gerar custos adicionais; exposição ao curto prazo conforme contrato)
 - 30/10: a eletricidade do Brasil vem quase toda de hidrelétricas (EPE, BEN 2026, Síntese, p. 36: hidráulica 51,2% da OIEE em 2025; eólica 14,9% + solar 11,4% = 26,3%, soma nossa)
+- 31/10: quem instala solar sempre paga o medidor (Lei 14.300/2022, art. 8º, § 4º: microgeração, distribuidora responsável técnica e financeiramente pela medição; § 5º: minigeração, adequação da medição é custo do interessado)
