@@ -39,12 +39,14 @@ política só com aprovação humana.
 | CF-0030 | 31/10 19h | Carrossel | As regras do 13º na lei (até 20/12; 1/12 por mês, 15 dias = mês; 1ª parcela fev-nov = metade do salário; nas férias se pedir em janeiro; exemplo R$ 3.000 → R$ 2.500) | Lei 4.090/1962, arts. 1º a 3º (Câmara, texto atualizado); Lei 4.749/1965, arts. 1º e 2º (normas.leg.br) |
 | CF-0033 | 01/11 12h | Reel | O Brasil faz fronteira com a França (Guiana Francesa 724 km x Suriname 643 km; 10 vizinhos por terra = 9 países + GF; 17.290 km terrestres; Bolívia 3.516 km; 29.798 km com 12.508 km de Atlântico ≈ 42%) | IBGE, Anuário Estatístico do Brasil, Tabela 1.1.2.2 (2025); Constituição da França, art. 72-3 (texto de 17/03/2003, Senado francês) |
 | CF-0032 | 01/11 19h | Carrossel | Até R$ 5 mil por mês o IR zera em 2026 (redução até R$ 312,89; R$ 978,62 − 0,133145 × rend. entre R$ 5.000,01 e R$ 7.350; R$ 6 mil → R$ 179,75; R$ 7 mil → ≈ R$ 46,60; vale no 13º; anual até R$ 2.694,15 até R$ 60 mil, zera em R$ 88.200) | Lei 15.270/2025, art. 2º (arts. 3º-A e 11-A da Lei 9.250/1995), Câmara, publicação original; Receita Federal, "Tributação de 2026" (atual. 27/04/2026) |
+| CF-0035 | 02/11 12h | Reel | Golpe da mão fantasma: app de acesso remoto (sem números) | Febraban, "Golpe da mão fantasma: bancos nunca pedem que clientes instalem app" (02/07/2025); Febraban, alerta antifraude "Golpe acesso remoto ou mão fantasma" (21/01/2025) |
+| CF-0034 | 02/11 19h | Carrossel | Seguro-desemprego: 3 a 5 parcelas (1º pedido 12 de 18 meses; 2º 9 de 12; 3º+ 6 meses; faixas 6-11/9-11 → 3, 12-23 → 4, 24+ → 5; 36 meses; 15 dias = mês; parcela ≥ salário mínimo) | Lei 7.998/1990, arts. 3º, 4º e 5º, texto atualizado (Câmara, atual. 02/07/2026) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 02/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 03/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -88,5 +90,7 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 - 30/10 (CF-0030): Lei 4.090/1962 lida no texto atualizado da Câmara; Lei 4.749/1965 em normas.leg.br (Planalto bloqueado). "Entre fevereiro e novembro" é o texto da lei; não afirmamos data exata do 30/11. Exemplo de R$ 3.000 é conta nossa (10/03 a 31/03 = 22 dias ≥ 15). Descontos de INSS/IR e regras de salário variável (Decreto 57.155/1965) ficaram fora.
 - 30/10 (CF-0031): Tabela 1.3.2.1 do Anuário 2024 (anuario.ibge.gov.br). Notas: 1 a 7 por GNSS + hgeoHNOR2020; os demais por outras bases (cartas 1:25.000, medições de campo, comissão de limites). A página da Agência IBGE sobre a revisão de 2016 não abriu; altitudes antigas e a ideia de que o pico "encolheu" ficaram fora. 31 de 35 é conta nossa (fora do Sudeste: n.º 1, 2 e 28 no AM, 7 em RR).- 31/10 (CF-0032): texto da lei na publicação original da Câmara (DOU 27/11/2025 não lido diretamente); tabela mensal 2026 na página da Receita. A página "Exemplos de aplicação da Lei 15.270/2025" da Receita não abriu; não calculamos imposto líquido (depende de deduções/INSS). Os exemplos de R$ 6 e 7 mil são só a redução pela fórmula. A fórmula anual em R$ 60 mil dá 2.695,23, não 2.694,15 (diferença da própria lei); usamos o teto da tabela. Estimativa do governo de 16 milhões de beneficiados não usada.
 - 31/10 (CF-0033): Tabela 1.1.2.2 do Anuário (anuario.ibge.gov.br, s1t1202, edição 2024 com dados de 2025); a soma dos países dá 17.291 km (arredondamento; usado o total publicado 17.290). Não afirmamos que esta é a maior fronteira terrestre da França (sem fonte francesa lida). Constituição francesa lida no texto adotado pelo Congresso em 17/03/2003 (senat.fr/leg/tac02-002); site do Conselho Constitucional não acessível. Nenhuma UF afirmada para a fronteira com a Guiana Francesa.
+- 01/11 (CF-0034): Lei 7.998/1990 lida no texto atualizado da Câmara (Planalto não usado). Valores das parcelas em 2026 (teto) ficaram fora: só havia matérias, sem a tabela do Ministério do Trabalho. Salário mínimo citado sem valor. "Período aquisitivo" e regras do Codefat não detalhados.
+- 01/11 (CF-0035): páginas da Febraban (notícia 4318, 02/07/2025; DetalheAntifraude 9, 21/01/2025). Números do texto da Febraban (R$ 5 bi em segurança, Operação Tentáculos) não usados.
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
