@@ -41,12 +41,14 @@ política só com aprovação humana.
 | CF-0032 | 01/11 19h | Carrossel | Até R$ 5 mil por mês o IR zera em 2026 (redução até R$ 312,89; R$ 978,62 − 0,133145 × rend. entre R$ 5.000,01 e R$ 7.350; R$ 6 mil → R$ 179,75; R$ 7 mil → ≈ R$ 46,60; vale no 13º; anual até R$ 2.694,15 até R$ 60 mil, zera em R$ 88.200) | Lei 15.270/2025, art. 2º (arts. 3º-A e 11-A da Lei 9.250/1995), Câmara, publicação original; Receita Federal, "Tributação de 2026" (atual. 27/04/2026) |
 | CF-0035 | 02/11 12h | Reel | Golpe da mão fantasma: app de acesso remoto (sem números) | Febraban, "Golpe da mão fantasma: bancos nunca pedem que clientes instalem app" (02/07/2025); Febraban, alerta antifraude "Golpe acesso remoto ou mão fantasma" (21/01/2025) |
 | CF-0034 | 02/11 19h | Carrossel | Seguro-desemprego: 3 a 5 parcelas (1º pedido 12 de 18 meses; 2º 9 de 12; 3º+ 6 meses; faixas 6-11/9-11 → 3, 12-23 → 4, 24+ → 5; 36 meses; 15 dias = mês; parcela ≥ salário mínimo) | Lei 7.998/1990, arts. 3º, 4º e 5º, texto atualizado (Câmara, atual. 02/07/2026) |
+| CF-0037 | 03/11 12h | Reel | O norte do Brasil não fica no Amapá (RR 5°16'19" N x AP 4°26'12" N = 0°50'07" ≈ 92 km; sul RS 33°45'04" S; leste continental PB 34°47'35" O; oeste AC 73°59'26" O) | IBGE, Anuário Estatístico do Brasil 2023, Tabela 1.1.1.1 – Pontos extremos (Malhas Municipais 2022) |
+| CF-0036 | 03/11 19h | Carrossel | Cheque especial: teto de 8% ao mês (R$ 1.000 → até R$ 80/mês; 1,08^12 = 151,8% em 12 meses, R$ 2.518; limite > R$ 500 só se o cliente aceitar; aumento só com autorização; redução com 30 dias de aviso; tarifa revogada em 2021 e inconstitucional, ADI 6.407) | Res. CMN 4.765/2019, versão consolidada (normativos.bcb.gov.br, Res_4765_v2_P), arts. 1º a 4º e 6º; Res. CMN 4.962/2021 |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 03/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 04/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -92,5 +94,9 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 - 31/10 (CF-0033): Tabela 1.1.2.2 do Anuário (anuario.ibge.gov.br, s1t1202, edição 2024 com dados de 2025); a soma dos países dá 17.291 km (arredondamento; usado o total publicado 17.290). Não afirmamos que esta é a maior fronteira terrestre da França (sem fonte francesa lida). Constituição francesa lida no texto adotado pelo Congresso em 17/03/2003 (senat.fr/leg/tac02-002); site do Conselho Constitucional não acessível. Nenhuma UF afirmada para a fronteira com a Guiana Francesa.
 - 01/11 (CF-0034): Lei 7.998/1990 lida no texto atualizado da Câmara (Planalto não usado). Valores das parcelas em 2026 (teto) ficaram fora: só havia matérias, sem a tabela do Ministério do Trabalho. Salário mínimo citado sem valor. "Período aquisitivo" e regras do Codefat não detalhados.
 - 01/11 (CF-0035): páginas da Febraban (notícia 4318, 02/07/2025; DetalheAntifraude 9, 21/01/2025). Números do texto da Febraban (R$ 5 bi em segurança, Operação Tentáculos) não usados.
+- 02/11 (férias na CLT, descartada para 03/11): texto atualizado da CLT na Câmara e em normas.leg.br truncado na ferramenta (termina no art. 75-C); arts. 129 a 145 não lidos. Volta ao banco reserva.
+- 02/11 (saque-aniversário do FGTS, descartada para 03/11): texto atualizado da Lei 8.036/1990 (Câmara) lido só até o art. 20, § 1º; arts. 20-A a 20-D e o Anexo com as faixas não acessíveis. Volta ao banco reserva.
+- 02/11 (CF-0036): Res. CMN 4.765/2019 lida na versão consolidada v2 do BCB (nota: art. 2º revogado a partir de 01/11/2021 pela Res. 4.962/2021 e declarado inconstitucional na ADI 6.407). Página de status da norma no BCB não acessível; nenhuma versão posterior ou revogação encontrada na busca. R$ 80 e 151,8% são contas nossas (teto, juros mensais compostos, sem pagamentos, sem IOF). Taxa média praticada pelos bancos não usada (nota do BC não acessível).
+- 02/11 (CF-0037): Tabela 1.1.1.1 do Anuário 2023 (anuario.ibge.gov.br/images/aeb/2023/s1/2_pdf/s1t1101.pdf). A tabela só traz coordenadas, sem nomes de lugares: Monte Caburaí, Arroio Chuí e Ponta do Seixas não citados. A nota 1 diz que as coordenadas incluem Fernando de Noronha e Martim Vaz (linhas de PE e ES); como a linha "Brasil" (leste) coincide com a PB, tratamos esse ponto como continental. 92 km = 0,835° × 110,6 km/grau (aproximação perto do Equador). Educa IBGE (pontos extremos) não abriu.
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
