@@ -21,6 +21,7 @@
 - 01/11: garantia de fiel cumprimento na minigeração: 2,5% do investimento (> 500 kW e < 1.000 kW), 5% (≥ 1.000 kW); dispensa para geração compartilhada e múltiplas unidades (Lei 14.300/2022, art. 4º, I, II e § 1º)
 - 02/11: regra antiga de compensação (sem art. 17) até 31/12/2045 para quem já gerava na publicação ou pediu acesso em até 12 meses (Lei 14.300/2022, art. 26, I e II)
 - 03/11: GD fora da transição do art. 26 paga sobre a energia compensada 60% das componentes de rede (fio B) a partir de 2026, 75% em 2027, 90% em 2028 (Lei 14.300/2022, art. 27, IV a VI)
+- 04/11: bandeira verde em novembro/2026, em vigor desde outubro; condições favoráveis de geração (Aneel, notícia de 30/10/2026)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -42,3 +43,4 @@
 - 01/11: a sobra da solar é vendida à distribuidora (Lei 14.300/2022, art. 1º, XIV: energia injetada cedida em empréstimo gratuito e compensada como crédito de energia)
 - 02/11: dá para ligar a solar na rede sem avisar a distribuidora (Lei 14.300/2022, art. 2º, caput e § 3º: solicitação de acesso protocolada na distribuidora com formulário padrão da Aneel; art. 26, § 3º: prazos contam do parecer de acesso)
 - 03/11: quem mora em condomínio não pode ter solar na compensação (Lei 14.300/2022, art. 1º, VII e X; art. 9º, II e III: empreendimento com múltiplas unidades consumidoras e geração compartilhada, inclusive condomínio edilício)
+- 04/11: com bandeira verde a conta de luz não sobe (Aneel, FAQ Bandeiras Tarifárias: verde = sem acréscimo de bandeira; tarifa cobre geração, transmissão, distribuição e encargos)
