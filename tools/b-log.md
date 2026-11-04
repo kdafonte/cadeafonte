@@ -22,6 +22,7 @@
 - 02/11: regra antiga de compensação (sem art. 17) até 31/12/2045 para quem já gerava na publicação ou pediu acesso em até 12 meses (Lei 14.300/2022, art. 26, I e II)
 - 03/11: GD fora da transição do art. 26 paga sobre a energia compensada 60% das componentes de rede (fio B) a partir de 2026, 75% em 2027, 90% em 2028 (Lei 14.300/2022, art. 27, IV a VI)
 - 04/11: bandeira verde em novembro/2026, em vigor desde outubro; condições favoráveis de geração (Aneel, notícia de 30/10/2026)
+- 05/11: titular da geração pode pedir alteração dos percentuais/ordem dos excedentes ou realocação para outra UC do mesmo titular; distribuidora tem até 30 dias (Lei 14.300/2022, art. 12, § 4º, texto atualizado da Câmara)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -44,3 +45,4 @@
 - 02/11: dá para ligar a solar na rede sem avisar a distribuidora (Lei 14.300/2022, art. 2º, caput e § 3º: solicitação de acesso protocolada na distribuidora com formulário padrão da Aneel; art. 26, § 3º: prazos contam do parecer de acesso)
 - 03/11: quem mora em condomínio não pode ter solar na compensação (Lei 14.300/2022, art. 1º, VII e X; art. 9º, II e III: empreendimento com múltiplas unidades consumidoras e geração compartilhada, inclusive condomínio edilício)
 - 04/11: com bandeira verde a conta de luz não sobe (Aneel, FAQ Bandeiras Tarifárias: verde = sem acréscimo de bandeira; tarifa cobre geração, transmissão, distribuição e encargos)
+- 05/11: o crédito da solar vale em qualquer imóvel, de qualquer distribuidora (Lei 14.300/2022, art. 12, § 1º, e art. 14: alocação só para unidades atendidas pela mesma distribuidora)

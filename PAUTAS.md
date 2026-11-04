@@ -45,12 +45,14 @@ política só com aprovação humana.
 | CF-0036 | 03/11 19h | Carrossel | Cheque especial: teto de 8% ao mês (R$ 1.000 → até R$ 80/mês; 1,08^12 = 151,8% em 12 meses, R$ 2.518; limite > R$ 500 só se o cliente aceitar; aumento só com autorização; redução com 30 dias de aviso; tarifa revogada em 2021 e inconstitucional, ADI 6.407) | Res. CMN 4.765/2019, versão consolidada (normativos.bcb.gov.br, Res_4765_v2_P), arts. 1º a 4º e 6º; Res. CMN 4.962/2021 |
 | CF-0039 | 04/11 12h | Reel | Golpe do falso advogado: "você ganhou um processo" e a taxa por Pix (sem números) | Febraban, "Saiba quais são as abordagens usadas por criminosos no golpe do falso advogado e como se proteger" (28/10/2026) |
 | CF-0038 | 04/11 19h | Carrossel | Multa de 40% do FGTS: 40% de quê? (8% ao mês, 2% aprendiz; 40% dos depósitos do contrato com correção e juros; 20% na culpa recíproca/força maior; saque-aniversário não saca saldo mas saca a multa; exemplo R$ 3.000 × 24 meses → R$ 2.304) | Lei 8.036/1990, texto atualizado (Câmara), arts. 15, 18, 20, I, 20-A, § 2º, II e 20-D, § 7º |
+| CF-0041 | 05/11 12h | Reel | O Amazonas é maior que o Nordeste inteiro (1.558.706 x 1.552.175 km²; sobra 6.531 > DF 5.761; > Sul + Sudeste 1.501.295; Pará 1.245.829 > Sudeste 924.558; 71 Sergipes; AM 18,32%, DF 0,07%) | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.1.2.1 (área total 2025, Malha Municipal 2024) |
+| CF-0040 | 05/11 19h | Carrossel | Aviso prévio pode chegar a 90 dias (30 até 1 ano; +3 por ano, teto 60 extras; 5 anos 45, 10 anos 60, 20 anos 90; demissão pelo empregador: 2 h a menos por dia ou 7 dias corridos) | Lei 12.506/2011, art. 1º e par. único (Câmara, publicação original); CLT, art. 488 (caput no PLS 112/2009, Senado; par. único pela Lei 7.093/1983, Câmara) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 05/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 06/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -102,6 +104,9 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 - 02/11 (CF-0037): Tabela 1.1.1.1 do Anuário 2023 (anuario.ibge.gov.br/images/aeb/2023/s1/2_pdf/s1t1101.pdf). A tabela só traz coordenadas, sem nomes de lugares: Monte Caburaí, Arroio Chuí e Ponta do Seixas não citados. A nota 1 diz que as coordenadas incluem Fernando de Noronha e Martim Vaz (linhas de PE e ES); como a linha "Brasil" (leste) coincide com a PB, tratamos esse ponto como continental. 92 km = 0,835° × 110,6 km/grau (aproximação perto do Equador). Educa IBGE (pontos extremos) não abriu.
 - 03/11 (CF-0038): Lei 8.036/1990 lida no texto atualizado da Câmara (HTML truncado no art. 20, § 1º; arts. 20-A e 20-D conferidos no PDF do mesmo texto atualizado). Planalto não respondeu. Exemplo de R$ 2.304 é conta nossa, simplificada (sem 13º, correção e juros). Valores do Anexo do saque-aniversário não lidos e não usados. Demissão por acordo (CLT, art. 484-A) fora (CLT não lida).
 - 03/11 (CF-0039): página da Febraban (notícia 4512, 28/10/2026), sem estatísticas. Reel sem números.
+
+- 04/11 (CF-0040): Lei 12.506/2011 lida na publicação original da Câmara (Planalto bloqueado). Caput do art. 488 da CLT conferido na "Legislação citada" do PLS 112/2009 (legis.senado.leg.br); parágrafo único na Lei 7.093/1983 (Câmara). Contagem a partir do 1º ano completo só pelos títulos de notícias do TRT-MG (2013, 2015, 2017), texto das decisões não lido; citada como "há decisões". Nota Técnica MTE 184/2012 não lida. Exemplos de 45/60/90 dias são contas nossas. Aviso pedido pelo empregado e desconto (art. 487, §§) ficaram fora.
+- 04/11 (Altamira, maior município, descartada): ibge.gov.br, cidades.ibge.gov.br e Agência IBGE inacessíveis (erro/permissão); só matérias. Trocada pela comparação de áreas das UFs (CF-0041), da Tabela 1.1.2.1 do Anuário. A diferença Amazonas x Nordeste é de só 0,42%; dito na legenda e no Reel.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
