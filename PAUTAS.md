@@ -108,5 +108,7 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 - 04/11 (CF-0040): Lei 12.506/2011 lida na publicação original da Câmara (Planalto bloqueado). Caput do art. 488 da CLT conferido na "Legislação citada" do PLS 112/2009 (legis.senado.leg.br); parágrafo único na Lei 7.093/1983 (Câmara). Contagem a partir do 1º ano completo só pelos títulos de notícias do TRT-MG (2013, 2015, 2017), texto das decisões não lido; citada como "há decisões". Nota Técnica MTE 184/2012 não lida. Exemplos de 45/60/90 dias são contas nossas. Aviso pedido pelo empregado e desconto (art. 487, §§) ficaram fora.
 - 04/11 (Altamira, maior município, descartada): ibge.gov.br, cidades.ibge.gov.br e Agência IBGE inacessíveis (erro/permissão); só matérias. Trocada pela comparação de áreas das UFs (CF-0041), da Tabela 1.1.2.1 do Anuário. A diferença Amazonas x Nordeste é de só 0,42%; dito na legenda e no Reel.
 
+- 05/11 (06/11 sem post): nenhuma fonte primária pôde ser aberta nesta execução (leitura de páginas indisponível: pedidos de permissão sem resposta para planalto.gov.br, normas.leg.br, camara.leg.br, ibge.gov.br; busca só trouxe títulos). Pautas tentadas e não confirmadas: direito de arrependimento e prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49) e número de municípios por UF (IBGE). Nada agendado para 06/11; pautas voltam ao banco reserva.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
