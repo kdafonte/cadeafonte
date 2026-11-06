@@ -110,5 +110,7 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 
 - 05/11 (06/11 sem post): nenhuma fonte primária pôde ser aberta nesta execução (leitura de páginas indisponível: pedidos de permissão sem resposta para planalto.gov.br, normas.leg.br, camara.leg.br, ibge.gov.br; busca só trouxe títulos). Pautas tentadas e não confirmadas: direito de arrependimento e prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49) e número de municípios por UF (IBGE). Nada agendado para 06/11; pautas voltam ao banco reserva.
 
+- 06/11 (07/11 sem post): de novo nenhuma fonte primária pôde ser aberta (leitura de páginas sem permissão respondida nesta execução: planalto.gov.br, camara.leg.br, febraban.org.br, epe.gov.br, cresesb.cepel.br, gov.br/aneel). Pautas tentadas e não confirmadas: prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49) e golpe do motoboy (Febraban). Nada agendado para 07/11; pautas seguem no banco reserva.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
