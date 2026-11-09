@@ -115,6 +115,7 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 - 07/11 (08/11 sem post): pela terceira execução seguida, nenhuma fonte primária pôde ser aberta (leitura de páginas bloqueada por pedido de permissão sem resposta: planalto.gov.br, camara.leg.br, gov.br/aneel). Pauta tentada e não confirmada: prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49). Nada agendado para 08/11; pautas seguem no banco reserva.
 
 - 08/11 (09/11 sem post): pela quarta execução seguida, nenhuma fonte primária pôde ser aberta (leitura de páginas bloqueada por pedido de permissão sem resposta: planalto.gov.br, anuario.ibge.gov.br). Pauta tentada e não confirmada: prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49). Nada agendado para 09/11; pautas seguem no banco reserva.
+- 09/11 (10/11 sem post): pela quinta execução seguida, nenhuma fonte primária pôde ser aberta (leitura de páginas bloqueada por pedido de permissão sem resposta: planalto.gov.br). Pauta tentada e não confirmada: prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49). Nada agendado para 10/11; pautas seguem no banco reserva.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
