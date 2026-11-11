@@ -46,3 +46,4 @@
 - 03/11: quem mora em condomínio não pode ter solar na compensação (Lei 14.300/2022, art. 1º, VII e X; art. 9º, II e III: empreendimento com múltiplas unidades consumidoras e geração compartilhada, inclusive condomínio edilício)
 - 04/11: com bandeira verde a conta de luz não sobe (Aneel, FAQ Bandeiras Tarifárias: verde = sem acréscimo de bandeira; tarifa cobre geração, transmissão, distribuição e encargos)
 - 05/11: o crédito da solar vale em qualquer imóvel, de qualquer distribuidora (Lei 14.300/2022, art. 12, § 1º, e art. 14: alocação só para unidades atendidas pela mesma distribuidora)
+- 12/11: o crédito da solar vale para sempre (Lei 14.300/2022, art. 13: créditos expiram em 60 meses após o faturamento em que foram gerados; texto já conferido em 27/10, reaproveitado porque nenhuma fonte abriu nesta execução)
