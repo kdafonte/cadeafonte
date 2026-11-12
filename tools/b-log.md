@@ -23,6 +23,7 @@
 - 03/11: GD fora da transição do art. 26 paga sobre a energia compensada 60% das componentes de rede (fio B) a partir de 2026, 75% em 2027, 90% em 2028 (Lei 14.300/2022, art. 27, IV a VI)
 - 04/11: bandeira verde em novembro/2026, em vigor desde outubro; condições favoráveis de geração (Aneel, notícia de 30/10/2026)
 - 05/11: titular da geração pode pedir alteração dos percentuais/ordem dos excedentes ou realocação para outra UC do mesmo titular; distribuidora tem até 30 dias (Lei 14.300/2022, art. 12, § 4º, texto atualizado da Câmara)
+- 13/11: Aneel é autarquia sob regime especial vinculada ao MME, criada pela Lei 9.427 de 26/12/1996; finalidade: regular e fiscalizar produção, transmissão, distribuição, armazenamento e comercialização (Lei 9.427/1996, arts. 1º e 2º, redação da Lei 15.269/2025, texto atualizado da Câmara)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -47,3 +48,4 @@
 - 04/11: com bandeira verde a conta de luz não sobe (Aneel, FAQ Bandeiras Tarifárias: verde = sem acréscimo de bandeira; tarifa cobre geração, transmissão, distribuição e encargos)
 - 05/11: o crédito da solar vale em qualquer imóvel, de qualquer distribuidora (Lei 14.300/2022, art. 12, § 1º, e art. 14: alocação só para unidades atendidas pela mesma distribuidora)
 - 12/11: o crédito da solar vale para sempre (Lei 14.300/2022, art. 13: créditos expiram em 60 meses após o faturamento em que foram gerados; texto já conferido em 27/10, reaproveitado porque nenhuma fonte abriu nesta execução)
+- 13/11: a distribuidora reajusta a tarifa quando quer (Lei 9.427/1996, art. 15, IV: novos valores de revisão ou reajuste por ato específico da Aneel, nas condições do contrato; §§ 1º e 2º: Aneel tem 30 dias, silêncio = aceitação, não citado no story)
