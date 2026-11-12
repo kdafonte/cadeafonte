@@ -46,13 +46,15 @@ política só com aprovação humana.
 | CF-0039 | 04/11 12h | Reel | Golpe do falso advogado: "você ganhou um processo" e a taxa por Pix (sem números) | Febraban, "Saiba quais são as abordagens usadas por criminosos no golpe do falso advogado e como se proteger" (28/10/2026) |
 | CF-0038 | 04/11 19h | Carrossel | Multa de 40% do FGTS: 40% de quê? (8% ao mês, 2% aprendiz; 40% dos depósitos do contrato com correção e juros; 20% na culpa recíproca/força maior; saque-aniversário não saca saldo mas saca a multa; exemplo R$ 3.000 × 24 meses → R$ 2.304) | Lei 8.036/1990, texto atualizado (Câmara), arts. 15, 18, 20, I, 20-A, § 2º, II e 20-D, § 7º |
 | CF-0041 | 05/11 12h | Reel | O Amazonas é maior que o Nordeste inteiro (1.558.706 x 1.552.175 km²; sobra 6.531 > DF 5.761; > Sul + Sudeste 1.501.295; Pará 1.245.829 > Sudeste 924.558; 71 Sergipes; AM 18,32%, DF 0,07%) | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.1.2.1 (área total 2025, Malha Municipal 2024) |
+| CF-0043 | 13/11 12h | Reel | Golpe do falso motoboy: senha, cortar o cartão sem estragar o chip, "motoboy" busca (sem números) | Febraban, alerta antifraude "Golpe do falso motoboy" (DetalheAntifraude 3, 21/01/2025) |
+| CF-0042 | 13/11 19h | Carrossel | Deu defeito? Os prazos do CDC (30 dias não durável; 90 durável; oculto conta do aparecimento; 30 dias para conserto, depois troca/devolução/abatimento; 7 dias de arrependimento fora do estabelecimento) | Lei 8.078/1990, arts. 18, 26 e 49, texto atualizado (Câmara) |
 | CF-0040 | 05/11 19h | Carrossel | Aviso prévio pode chegar a 90 dias (30 até 1 ano; +3 por ano, teto 60 extras; 5 anos 45, 10 anos 60, 20 anos 90; demissão pelo empregador: 2 h a menos por dia ou 7 dias corridos) | Lei 12.506/2011, art. 1º e par. único (Câmara, publicação original); CLT, art. 488 (caput no PLS 112/2009, Senado; par. único pela Lei 7.093/1983, Câmara) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 06/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 14/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -120,6 +122,9 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 - 10/11 (11/11 sem post): pela sexta execução seguida, nenhuma fonte primária pôde ser aberta (leitura de páginas bloqueada por pedido de permissão sem resposta: planalto.gov.br; busca só trouxe títulos). Pauta tentada e não confirmada: prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49). Nada agendado para 11/11; pautas seguem no banco reserva.
 
 - 11/11 (12/11 sem post): pela sétima execução seguida, nenhuma fonte primária pôde ser aberta (leitura de páginas bloqueada por pedido de permissão sem resposta: planalto.gov.br; busca só trouxe títulos). Pauta tentada e não confirmada: prazos do CDC (Lei 8.078/1990, arts. 18, 26 e 49). Nada agendado para 12/11; pautas seguem no banco reserva.
+
+- 12/11 (CF-0042): leitura de páginas voltou a funcionar. Lei 8.078/1990 lida no texto atualizado da Câmara (Planalto redirecionou para gov.br/planalto). A lei não cita internet no art. 49 (só "especialmente por telefone ou a domicílio"); o carrossel não afirma que vale para compra online. Atualizações da norma depois da cópia da Câmara não conferidas. Sem contas nossas.
+- 12/11 (CF-0043): página da Febraban (DetalheAntifraude 3, 21/01/2025). A página não diz "o banco nunca pede senha" nem "ligue de outro telefone"; usamos só "os bancos nunca pedem cartões de volta" e "desligue o telefone / nunca entregue seus cartões". Reel sem números.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
