@@ -56,7 +56,7 @@ política só com aprovação humana.
 | --- | --- | --- | --- |
 | 14/11 | nova pauta no mix | nova pauta no mix | a definir |
 
-Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
+Banco reserva: direitos do art. 7º da Constituição; Brasília não é município (CF art. 32); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
 ## Notas de apuração
 
@@ -125,6 +125,8 @@ Banco reserva: os nomes mais comuns do Brasil (só com o ranking aberto na fonte
 
 - 12/11 (CF-0042): leitura de páginas voltou a funcionar. Lei 8.078/1990 lida no texto atualizado da Câmara (Planalto redirecionou para gov.br/planalto). A lei não cita internet no art. 49 (só "especialmente por telefone ou a domicílio"); o carrossel não afirma que vale para compra online. Atualizações da norma depois da cópia da Câmara não conferidas. Sem contas nossas.
 - 12/11 (CF-0043): página da Febraban (DetalheAntifraude 3, 21/01/2025). A página não diz "o banco nunca pede senha" nem "ligue de outro telefone"; usamos só "os bancos nunca pedem cartões de volta" e "desligue o telefone / nunca entregue seus cartões". Reel sem números.
+
+- 14/11 (15/11 sem post): leitura de páginas de novo bloqueada (pedido de permissão sem resposta: planalto.gov.br, camara.leg.br, ccee.org.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição (44 h, hora extra +50%, férias +1/3) e "Brasília não é município" (CF, arts. 18, § 1º e 32; ADCT art. 15). Nada agendado para 15/11; pautas vão para o banco reserva. Também não havia nada agendado para 14/11 (a execução de 13/11 não rodou).
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
