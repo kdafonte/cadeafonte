@@ -130,5 +130,7 @@ Banco reserva: direitos do art. 7º da Constituição; Brasília não é municí
 
 - 15/11 (16/11 sem post): leitura de páginas bloqueada de novo (pedido de permissão sem resposta: planalto.gov.br, camara.leg.br, normas.leg.br, senado.leg.br, gov.br/aneel). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição e "Brasília não é município" (CF, arts. 18, § 1º e 32). Nada agendado para 16/11; pautas seguem no banco reserva.
 
+- 16/11 (17/11 sem post): leitura de páginas bloqueada de novo (pedido de permissão sem resposta: planalto.gov.br, camara.leg.br; busca só trouxe títulos). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição e "Brasília não é município" (CF, arts. 18, § 1º e 32). Nada agendado para 17/11; pautas seguem no banco reserva.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
