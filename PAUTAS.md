@@ -132,5 +132,7 @@ Banco reserva: direitos do art. 7º da Constituição; Brasília não é municí
 
 - 16/11 (17/11 sem post): leitura de páginas bloqueada de novo (pedido de permissão sem resposta: planalto.gov.br, camara.leg.br; busca só trouxe títulos). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição e "Brasília não é município" (CF, arts. 18, § 1º e 32). Nada agendado para 17/11; pautas seguem no banco reserva.
 
+- 17/11 (18/11 sem post): leitura de páginas bloqueada de novo (PROVENANCE_REQUIRED, pedido de permissão sem resposta: planalto.gov.br, camara.leg.br [client_error], normas.leg.br [exige JavaScript], agenciadenoticias.ibge.gov.br, ibge.gov.br, portal.febraban.org.br, gov.br/aneel, ccee.org.br, ons.org.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição; "Brasília não é município"; IPCA de outubro/2026 (0,14%; só a Agência Gov, 12/11/2026, foi lida; release do IBGE n.º 48569 não abriu); golpe de Black Friday/falso gerente (Febraban). Nada agendado para 18/11; IPCA de outubro entra no banco reserva.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.

@@ -28,6 +28,8 @@
 - 16/11 (19h05, sem post no feed): orçamento provisório da CDE 2026 R$ 52,7 bi, R$ 47,8 bi em quotas dos consumidores (MME, Informativo Tarifário 1º sem./2026, p. 25-26; CP Aneel 44/2025; conferido em 24/10)
 - 17/11 (9h): energia elétrica residencial +7,98% em set/2026, maior impacto individual do IPCA: 0,32 ponto dos 0,82% (IBGE, IPCA set/2026, 09/10/2026; conferido em 16/10 para o CF-0004, reaproveitado porque nenhuma fonte abriu nesta execução)
 - 17/11 (19h05, sem post no feed): CDE paga subsídios: tarifa social, irrigação e aquicultura, universalização, GD, fontes incentivadas, carvão mineral nacional, térmicas nos sistemas isolados (MME, Informativo Tarifário 1º sem./2026, p. 25-26 e glossário; conferido em 24/10)
+- 18/11 (9h): Aneel tem 30 dias para se manifestar sobre proposta de revisão/reajuste; sem manifestação, novos valores considerados aceitos (Lei 9.427/1996, art. 15, §§ 1º e 2º; conferido em 13/11, reaproveitado porque nenhuma fonte abriu nesta execução)
+- 18/11 (19h05): post do feed estava às 12h (não 19h); story feito sobre ele (usina solar Zuppani Industrial, 874,2 kWp, economia estimada R$ 78,3 mil/mês, números da legenda)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -55,3 +57,4 @@
 - 13/11: a distribuidora reajusta a tarifa quando quer (Lei 9.427/1996, art. 15, IV: novos valores de revisão ou reajuste por ato específico da Aneel, nas condições do contrato; §§ 1º e 2º: Aneel tem 30 dias, silêncio = aceitação, não citado no story)
 - 16/11: o imposto da conta de luz é igual em todo o país (MME, "Entenda cada item cobrado na conta de luz", 03/07/2026: ICMS estadual com alíquota variável; PIS/Pasep e Cofins federais; CIP municipal; conferido em 24/10, reaproveitado porque nenhuma fonte abriu nesta execução)
 - 17/11: a CDE é um imposto (MME, Informativo Tarifário 1º sem./2026: CDE é encargo setorial na tarifa; MME, "Entenda cada item", 03/07/2026: ICMS, PIS/Pasep e Cofins são tributos à parte; conferido em 24/10, reaproveitado)
+- 18/11: a distribuidora escolhe a bandeira (Aneel, "Sobre Bandeiras Tarifárias" e notícia de 30/10/2026: bandeira definida pela Aneel, revista todo mês, sinaliza custo da geração; conferido em 22/10 e 27/10, reaproveitado)
