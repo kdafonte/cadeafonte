@@ -32,6 +32,8 @@
 - 18/11 (19h05): post do feed estava às 12h (não 19h); story feito sobre ele (usina solar Zuppani Industrial, 874,2 kWp, economia estimada R$ 78,3 mil/mês, números da legenda)
 - 19/11 (9h): solar = 11,4% da oferta interna de energia elétrica em 2025; eólica 14,9%; soma 26,3% (EPE, BEN 2026, Síntese, p. 36; conferido em 30/10, reaproveitado porque nenhuma fonte abriu nesta execução)
 - 19/11 (19h05, sem post no feed): receita requerida das distribuidoras R$ 155,9 bi no 1º sem./2026; encargos 20,91%, CDE 15,52% (MME, Informativo Tarifário 1º sem./2026, Gráfico 1 p. 12; conferido em 24/10, reaproveitado)
+- 20/11 (9h): Tarifa Social: 100% de desconto na parcela até 80 kWh/mês, 0% acima (Lei 12.212/2010, art. 1º, I e II, redação da MP 1.300/2025 convertida na Lei 15.235/2025; texto atualizado da Câmara, lido em 19/11)
+- 20/11 (19h05, sem post no feed): Tarifa Social e CDE vêm da Lei 10.438/2002; CDE criada pelo art. 13 (Lei 12.212/2010, arts. 1º e 2º, § 4º; texto atualizado da Câmara, lido em 19/11)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -61,3 +63,4 @@
 - 17/11: a CDE é um imposto (MME, Informativo Tarifário 1º sem./2026: CDE é encargo setorial na tarifa; MME, "Entenda cada item", 03/07/2026: ICMS, PIS/Pasep e Cofins são tributos à parte; conferido em 24/10, reaproveitado)
 - 18/11: a distribuidora escolhe a bandeira (Aneel, "Sobre Bandeiras Tarifárias" e notícia de 30/10/2026: bandeira definida pela Aneel, revista todo mês, sinaliza custo da geração; conferido em 22/10 e 27/10, reaproveitado)
 - 19/11: quem entra na Tarifa Branca não pode voltar (Aneel, FAQ Tarifa Branca, atual. 07/02/2025: retorno à convencional a qualquer tempo, em até 30 dias; conferido em 24/10, reaproveitado)
+- 20/11: para ter Tarifa Social é preciso pedir na distribuidora (Lei 12.212/2010, art. 4º, par. único, redação da Lei 14.203/2021: inscrição automática das famílias do CadÚnico que se enquadram; lido em 19/11)

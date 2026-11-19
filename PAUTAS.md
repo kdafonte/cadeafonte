@@ -49,6 +49,8 @@ política só com aprovação humana.
 | CF-0043 | 13/11 12h | Reel | Golpe do falso motoboy: senha, cortar o cartão sem estragar o chip, "motoboy" busca (sem números) | Febraban, alerta antifraude "Golpe do falso motoboy" (DetalheAntifraude 3, 21/01/2025) |
 | CF-0042 | 13/11 19h | Carrossel | Deu defeito? Os prazos do CDC (30 dias não durável; 90 durável; oculto conta do aparecimento; 30 dias para conserto, depois troca/devolução/abatimento; 7 dias de arrependimento fora do estabelecimento) | Lei 8.078/1990, arts. 18, 26 e 49, texto atualizado (Câmara) |
 | CF-0040 | 05/11 19h | Carrossel | Aviso prévio pode chegar a 90 dias (30 até 1 ano; +3 por ano, teto 60 extras; 5 anos 45, 10 anos 60, 20 anos 90; demissão pelo empregador: 2 h a menos por dia ou 7 dias corridos) | Lei 12.506/2011, art. 1º e par. único (Câmara, publicação original); CLT, art. 488 (caput no PLS 112/2009, Senado; par. único pela Lei 7.093/1983, Câmara) |
+| CF-0045 | 20/11 12h | Reel | Tarifa Social: 100% de desconto até 80 kWh/mês (0% acima; CadÚnico com renda per capita ≤ ½ salário mínimo ou BPC; uma unidade por família; inscrição automática) | Lei 12.212/2010, arts. 1º, 2º e 4º, texto atualizado (Câmara), redação da MP 1.300/2025 convertida na Lei 15.235/2025 e da Lei 14.203/2021 |
+| CF-0044 | 20/11 19h | Carrossel | Brasília não é município (art. 18, § 1º: Brasília é a Capital Federal; art. 32: vedada a divisão do DF em municípios; competências de Estados e Municípios; sem prefeito nem vereadores) | Constituição Federal, arts. 18 e 32, texto atualizado até a EC 141/2026 (Câmara); TJDFT, Direito Fácil (30/09/2016) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
@@ -56,7 +58,7 @@ política só com aprovação humana.
 | --- | --- | --- | --- |
 | 14/11 | nova pauta no mix | nova pauta no mix | a definir |
 
-Banco reserva: direitos do art. 7º da Constituição; Brasília não é município (CF art. 32); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
+Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
 ## Notas de apuração
 
@@ -135,6 +137,10 @@ Banco reserva: direitos do art. 7º da Constituição; Brasília não é municí
 - 17/11 (18/11 sem post): leitura de páginas bloqueada de novo (PROVENANCE_REQUIRED, pedido de permissão sem resposta: planalto.gov.br, camara.leg.br [client_error], normas.leg.br [exige JavaScript], agenciadenoticias.ibge.gov.br, ibge.gov.br, portal.febraban.org.br, gov.br/aneel, ccee.org.br, ons.org.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição; "Brasília não é município"; IPCA de outubro/2026 (0,14%; só a Agência Gov, 12/11/2026, foi lida; release do IBGE n.º 48569 não abriu); golpe de Black Friday/falso gerente (Febraban). Nada agendado para 18/11; IPCA de outubro entra no banco reserva.
 
 - 18/11 (19/11 sem post): leitura de páginas bloqueada de novo (WebFetch PROVENANCE_REQUIRED, pedido de permissão sem resposta: planalto.gov.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição e "Brasília não é município" (CF, arts. 18 e 32); busca só trouxe títulos e cópias não oficiais. Nada agendado para 19/11; pautas seguem no banco reserva.
+
+- 19/11 (CF-0044): leitura de páginas voltou a funcionar. Constituição lida no texto atualizado até a EC 141/2026 da Câmara (ConstituicaoTextoAtualizado_EC 141.html); arts. 18 e 32 conferidos literalmente. Planalto redireciona para gov.br/planalto; PDFs da Câmara e do Senado não abriram. "Sem prefeito" e "regiões administrativas" pela página do TJDFT (30/09/2016); número de deputados distritais e de RAs (31 em 2016) não usados por estarem datados. Nada sobre eleições.
+- 19/11 (CF-0045): Lei 12.212/2010 lida no texto atualizado da Câmara (notas de redação da MP 1.300/2025, convertida na Lei 15.235/2025, retificada no DOU de 10/10/2025). Texto da Lei 15.235/2025 não abriu (client_error); data de início da gratuidade não afirmada. O Reel não diz que a conta zera (tributos e outros itens não constam da lei lida). Caso indígenas/quilombolas (art. 2º, § 4º) e exceção de até 3 salários mínimos (§ 1º) ficaram fora.
+- 19/11 (art. 7º, não usado): o texto atualizado mostra o inciso XIII com redação da EC 141/2026 (8 h diárias e 40 h semanais) e remissão ao art. 6º da EC 141 (não lido). Pauta guardada no banco reserva até a regra de transição ser lida.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
