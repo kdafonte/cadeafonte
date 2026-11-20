@@ -34,6 +34,8 @@
 - 19/11 (19h05, sem post no feed): receita requerida das distribuidoras R$ 155,9 bi no 1º sem./2026; encargos 20,91%, CDE 15,52% (MME, Informativo Tarifário 1º sem./2026, Gráfico 1 p. 12; conferido em 24/10, reaproveitado)
 - 20/11 (9h): Tarifa Social: 100% de desconto na parcela até 80 kWh/mês, 0% acima (Lei 12.212/2010, art. 1º, I e II, redação da MP 1.300/2025 convertida na Lei 15.235/2025; texto atualizado da Câmara, lido em 19/11)
 - 20/11 (19h05, sem post no feed): Tarifa Social e CDE vêm da Lei 10.438/2002; CDE criada pelo art. 13 (Lei 12.212/2010, arts. 1º e 2º, § 4º; texto atualizado da Câmara, lido em 19/11)
+- 21/11 (9h): energia elétrica residencial −1,92% no IPCA de out/2026, mês de bandeira verde sem custo adicional (IBGE, IPCA out/2026, PDF de 12/11/2026)
+- 21/11 (19h05, sem post no feed): energia elétrica residencial +3,23% em 12 meses até out/2026, abaixo do IPCA geral de 4,63% (IBGE, IPCA out/2026, PDF de 12/11/2026)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -64,3 +66,4 @@
 - 18/11: a distribuidora escolhe a bandeira (Aneel, "Sobre Bandeiras Tarifárias" e notícia de 30/10/2026: bandeira definida pela Aneel, revista todo mês, sinaliza custo da geração; conferido em 22/10 e 27/10, reaproveitado)
 - 19/11: quem entra na Tarifa Branca não pode voltar (Aneel, FAQ Tarifa Branca, atual. 07/02/2025: retorno à convencional a qualquer tempo, em até 30 dias; conferido em 24/10, reaproveitado)
 - 20/11: para ter Tarifa Social é preciso pedir na distribuidora (Lei 12.212/2010, art. 4º, par. único, redação da Lei 14.203/2021: inscrição automática das famílias do CadÚnico que se enquadram; lido em 19/11)
+- 21/11: a taxa de iluminação pública da conta é da distribuidora (MME, "Entenda cada item cobrado na conta de luz", 03/07/2026: CIP municipal; ICMS estadual; PIS/Cofins federais; conferido em 24/10, reaproveitado porque a Câmara não abriu nesta execução)

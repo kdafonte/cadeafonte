@@ -51,12 +51,14 @@ política só com aprovação humana.
 | CF-0040 | 05/11 19h | Carrossel | Aviso prévio pode chegar a 90 dias (30 até 1 ano; +3 por ano, teto 60 extras; 5 anos 45, 10 anos 60, 20 anos 90; demissão pelo empregador: 2 h a menos por dia ou 7 dias corridos) | Lei 12.506/2011, art. 1º e par. único (Câmara, publicação original); CLT, art. 488 (caput no PLS 112/2009, Senado; par. único pela Lei 7.093/1983, Câmara) |
 | CF-0045 | 20/11 12h | Reel | Tarifa Social: 100% de desconto até 80 kWh/mês (0% acima; CadÚnico com renda per capita ≤ ½ salário mínimo ou BPC; uma unidade por família; inscrição automática) | Lei 12.212/2010, arts. 1º, 2º e 4º, texto atualizado (Câmara), redação da MP 1.300/2025 convertida na Lei 15.235/2025 e da Lei 14.203/2021 |
 | CF-0044 | 20/11 19h | Carrossel | Brasília não é município (art. 18, § 1º: Brasília é a Capital Federal; art. 32: vedada a divisão do DF em municípios; competências de Estados e Municípios; sem prefeito nem vereadores) | Constituição Federal, arts. 18 e 32, texto atualizado até a EC 141/2026 (Câmara); TJDFT, Direito Fácil (30/09/2016) |
+| CF-0047 | 21/11 12h | Reel | Golpe da Black Friday: 5 sinais (site clonado, preço muito abaixo, loja nova com anúncio, Pix fora da loja, link recebido) (sem números) | Febraban, notícias 4377 (07/11/2025) e 4026 (17/11/2023) |
+| CF-0046 | 21/11 19h | Carrossel | IPCA de outubro: 0,14%, mas comida +1,04% (set 0,82%; 12 meses 4,63%; ano 4,10%; tomate +19,57%, cebola +11,29%, arroz +4,81%, carnes +2,27%; passagem aérea −9,21%, energia −1,92%, gasolina −0,56%; impactos 0,22 − 0,12 − 0,08 + 0,12 = 0,14) | IBGE, IPCA de outubro/2026, PDF de divulgação (12/11/2026), quadro resumo e tabelas de grupos e subitens |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 14/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 22/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -134,13 +136,17 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 
 - 16/11 (17/11 sem post): leitura de páginas bloqueada de novo (pedido de permissão sem resposta: planalto.gov.br, camara.leg.br; busca só trouxe títulos). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição e "Brasília não é município" (CF, arts. 18, § 1º e 32). Nada agendado para 17/11; pautas seguem no banco reserva.
 
-- 17/11 (18/11 sem post): leitura de páginas bloqueada de novo (PROVENANCE_REQUIRED, pedido de permissão sem resposta: planalto.gov.br, camara.leg.br [client_error], normas.leg.br [exige JavaScript], agenciadenoticias.ibge.gov.br, ibge.gov.br, portal.febraban.org.br, gov.br/aneel, ccee.org.br, ons.org.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição; "Brasília não é município"; IPCA de outubro/2026 (0,14%; só a Agência Gov, 12/11/2026, foi lida; release do IBGE n.º 48569 não abriu); golpe de Black Friday/falso gerente (Febraban). Nada agendado para 18/11; IPCA de outubro entra no banco reserva.
+- 17/11 (18/11 sem post): leitura de páginas bloqueada de novo (PROVENANCE_REQUIRED, pedido de permissão sem resposta: planalto.gov.br, camara.leg.br [client_error], normas.leg.br [exige JavaScript], agenciadenoticias.ibge.gov.br, ibge.gov.br, portal.febraban.org.br, gov.br/aneel, ccee.org.br, ons.org.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição; "Brasília não é município"; IPCA de outubro/2026 (0,14%; só a Agência Gov, 12/11/2026, foi lida; release do IBGE n.º 48569 não abriu); golpe de Black Friday/falso gerente (Febraban). Nada agendado para 18/11; IPCA de outubro entra no banco reserva (usado em 21/11, CF-0046).
 
 - 18/11 (19/11 sem post): leitura de páginas bloqueada de novo (WebFetch PROVENANCE_REQUIRED, pedido de permissão sem resposta: planalto.gov.br). Pautas tentadas e não confirmadas: direitos do art. 7º da Constituição e "Brasília não é município" (CF, arts. 18 e 32); busca só trouxe títulos e cópias não oficiais. Nada agendado para 19/11; pautas seguem no banco reserva.
 
 - 19/11 (CF-0044): leitura de páginas voltou a funcionar. Constituição lida no texto atualizado até a EC 141/2026 da Câmara (ConstituicaoTextoAtualizado_EC 141.html); arts. 18 e 32 conferidos literalmente. Planalto redireciona para gov.br/planalto; PDFs da Câmara e do Senado não abriram. "Sem prefeito" e "regiões administrativas" pela página do TJDFT (30/09/2016); número de deputados distritais e de RAs (31 em 2016) não usados por estarem datados. Nada sobre eleições.
 - 19/11 (CF-0045): Lei 12.212/2010 lida no texto atualizado da Câmara (notas de redação da MP 1.300/2025, convertida na Lei 15.235/2025, retificada no DOU de 10/10/2025). Texto da Lei 15.235/2025 não abriu (client_error); data de início da gratuidade não afirmada. O Reel não diz que a conta zera (tributos e outros itens não constam da lei lida). Caso indígenas/quilombolas (art. 2º, § 4º) e exceção de até 3 salários mínimos (§ 1º) ficaram fora.
 - 19/11 (art. 7º, não usado): o texto atualizado mostra o inciso XIII com redação da EC 141/2026 (8 h diárias e 40 h semanais) e remissão ao art. 6º da EC 141 (não lido). Pauta guardada no banco reserva até a regra de transição ser lida.
+
+- 20/11 (CF-0046): release HTML do IBGE (48568) e versão em inglês não abriram (client_error); números lidos no PDF de divulgação do IBGE (agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/18f3903e75497639d0b3b3aead85fc71.pdf, 12/11/2026), que só traz tabelas. Impactos em pontos só existem por grupo (subitens sem impacto no PDF); "outros 6 grupos" = 0,02 + 0,02 + 0,01 + 0,04 + 0,00 + 0,03 = 0,12, soma nossa; o total fecha em 0,14. 12 meses de setembro (4,58%) lido no gráfico; confere com (1,0458 × 1,0014 / 1,0009). Alimentação no domicílio (1,31%?) e batata-inglesa não usados (leitura incerta do gráfico/tabela). IPCA de outubro sai do banco reserva.
+- 20/11 (CF-0047): páginas da Febraban 4377 (07/11/2025), 4026 (17/11/2023) e 4217 (22/11/2024) lidas. Não citamos CNPJ, cadeado ou Reclame Aqui (não constam). Exemplos de preço da página de 2023 não usados. Data da Black Friday 2026 não citada. Reel sem números.
+- 20/11 (art. 7º e Lei 14.300, não usados): texto da Lei 14.300/2022 na Câmara bloqueado (PROVENANCE_REQUIRED); art. 6º da EC 141 não lido. Seguem no banco reserva.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
