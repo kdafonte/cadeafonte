@@ -53,12 +53,14 @@ política só com aprovação humana.
 | CF-0044 | 20/11 19h | Carrossel | Brasília não é município (art. 18, § 1º: Brasília é a Capital Federal; art. 32: vedada a divisão do DF em municípios; competências de Estados e Municípios; sem prefeito nem vereadores) | Constituição Federal, arts. 18 e 32, texto atualizado até a EC 141/2026 (Câmara); TJDFT, Direito Fácil (30/09/2016) |
 | CF-0047 | 21/11 12h | Reel | Golpe da Black Friday: 5 sinais (site clonado, preço muito abaixo, loja nova com anúncio, Pix fora da loja, link recebido) (sem números) | Febraban, notícias 4377 (07/11/2025) e 4026 (17/11/2023) |
 | CF-0046 | 21/11 19h | Carrossel | IPCA de outubro: 0,14%, mas comida +1,04% (set 0,82%; 12 meses 4,63%; ano 4,10%; tomate +19,57%, cebola +11,29%, arroz +4,81%, carnes +2,27%; passagem aérea −9,21%, energia −1,92%, gasolina −0,56%; impactos 0,22 − 0,12 − 0,08 + 0,12 = 0,14) | IBGE, IPCA de outubro/2026, PDF de divulgação (12/11/2026), quadro resumo e tabelas de grupos e subitens |
+| CF-0049 | 22/11 12h | Reel | Minas tem 853 municípios, quase o dobro do Norte inteiro (450; RR 15, AP 16; SP 645, RS 497, BA 417, PR 399; Brasil 1.574 em 1940, MG 288) | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.2.1.1 (situação em 31/12/2024) |
+| CF-0048 | 22/11 19h | Carrossel | Compra online: o que o Decreto 7.962/2013 exige da loja (nome, CNPJ, endereço; frete e seguro discriminados; sumário e correção de erros; resposta em até 5 dias; arrependimento pelo mesmo canal, cartão avisado para não lançar/estornar; 7 dias do CDC) | Decreto 7.962/2013, arts. 2º, 4º e 5º (Câmara, publicação original); Lei 8.078/1990, art. 49 |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 22/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 23/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -147,6 +149,9 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 20/11 (CF-0046): release HTML do IBGE (48568) e versão em inglês não abriram (client_error); números lidos no PDF de divulgação do IBGE (agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/18f3903e75497639d0b3b3aead85fc71.pdf, 12/11/2026), que só traz tabelas. Impactos em pontos só existem por grupo (subitens sem impacto no PDF); "outros 6 grupos" = 0,02 + 0,02 + 0,01 + 0,04 + 0,00 + 0,03 = 0,12, soma nossa; o total fecha em 0,14. 12 meses de setembro (4,58%) lido no gráfico; confere com (1,0458 × 1,0014 / 1,0009). Alimentação no domicílio (1,31%?) e batata-inglesa não usados (leitura incerta do gráfico/tabela). IPCA de outubro sai do banco reserva.
 - 20/11 (CF-0047): páginas da Febraban 4377 (07/11/2025), 4026 (17/11/2023) e 4217 (22/11/2024) lidas. Não citamos CNPJ, cadeado ou Reclame Aqui (não constam). Exemplos de preço da página de 2023 não usados. Data da Black Friday 2026 não citada. Reel sem números.
 - 20/11 (art. 7º e Lei 14.300, não usados): texto da Lei 14.300/2022 na Câmara bloqueado (PROVENANCE_REQUIRED); art. 6º da EC 141 não lido. Seguem no banco reserva.
+
+- 21/11 (CF-0048): Decreto 7.962/2013 lido na publicação original da Câmara; página "Dados da Norma" da Câmara e norma do Senado sem revogação expressa nem alteração dos arts. 2º, 4º e 5º (texto consolidado do Planalto não consultado). O decreto usa "efetivado o estorno do valor" (art. 5º, § 3º, II). Prazo de 7 dias do art. 49 do CDC conferido em 12/11 (CF-0042). Não afirmamos que o decreto cita a Black Friday.
+- 21/11 (CF-0049): Tabela 1.2.1.1 do Anuário 2024 (anuario.ibge.gov.br/images/aeb/2024/s1/2_pdf/s1t2101.pdf). O cabeçalho vai até 2025 (Brasil 5.571, MT 142), mas a nota diz situação em 31/12/2024; o total do Brasil não foi usado. O Quadro Geográfico 2025 do IBGE traz 5.569 municípios (sem DF e Fernando de Noronha, leitura nossa); não usado. 853 ÷ 450 ≈ 1,9 é conta nossa.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
