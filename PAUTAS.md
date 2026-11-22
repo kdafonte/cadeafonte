@@ -55,12 +55,14 @@ política só com aprovação humana.
 | CF-0046 | 21/11 19h | Carrossel | IPCA de outubro: 0,14%, mas comida +1,04% (set 0,82%; 12 meses 4,63%; ano 4,10%; tomate +19,57%, cebola +11,29%, arroz +4,81%, carnes +2,27%; passagem aérea −9,21%, energia −1,92%, gasolina −0,56%; impactos 0,22 − 0,12 − 0,08 + 0,12 = 0,14) | IBGE, IPCA de outubro/2026, PDF de divulgação (12/11/2026), quadro resumo e tabelas de grupos e subitens |
 | CF-0049 | 22/11 12h | Reel | Minas tem 853 municípios, quase o dobro do Norte inteiro (450; RR 15, AP 16; SP 645, RS 497, BA 417, PR 399; Brasil 1.574 em 1940, MG 288) | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.2.1.1 (situação em 31/12/2024) |
 | CF-0048 | 22/11 19h | Carrossel | Compra online: o que o Decreto 7.962/2013 exige da loja (nome, CNPJ, endereço; frete e seguro discriminados; sumário e correção de erros; resposta em até 5 dias; arrependimento pelo mesmo canal, cartão avisado para não lançar/estornar; 7 dias do CDC) | Decreto 7.962/2013, arts. 2º, 4º e 5º (Câmara, publicação original); Lei 8.078/1990, art. 49 |
+| CF-0051 | 23/11 12h | Reel | Golpe do falso emprego: falso recrutador, pedido de documentos/dados/assinatura digital e taxa antes da contratação (sem números) | MJSP e Febraban, Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025), item 17; comunicado da Febraban via Agência Brasil (12/05/2026) |
+| CF-0050 | 23/11 19h | Carrossel | Os números do Estatuto da Pessoa Idosa (60 anos; ônibus urbano grátis 65+, 60-65 lei local, 10% dos assentos; 2 vagas interestaduais grátis até 2 SM, depois ≥ 50%; ≥ 50% em ingressos; 5% das vagas; plano sem cobrança por idade; BPC 1 SM aos 65; prioridade 80+) | Lei 10.741/2003, texto atualizado da Câmara, arts. 1º, 3º § 2º, 15 § 3º, 23, 34, 39, 40, 41 e 71 |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 23/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 24/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -152,6 +154,10 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 
 - 21/11 (CF-0048): Decreto 7.962/2013 lido na publicação original da Câmara; página "Dados da Norma" da Câmara e norma do Senado sem revogação expressa nem alteração dos arts. 2º, 4º e 5º (texto consolidado do Planalto não consultado). O decreto usa "efetivado o estorno do valor" (art. 5º, § 3º, II). Prazo de 7 dias do art. 49 do CDC conferido em 12/11 (CF-0042). Não afirmamos que o decreto cita a Black Friday.
 - 21/11 (CF-0049): Tabela 1.2.1.1 do Anuário 2024 (anuario.ibge.gov.br/images/aeb/2024/s1/2_pdf/s1t2101.pdf). O cabeçalho vai até 2025 (Brasil 5.571, MT 142), mas a nota diz situação em 31/12/2024; o total do Brasil não foi usado. O Quadro Geográfico 2025 do IBGE traz 5.569 municípios (sem DF e Fernando de Noronha, leitura nossa); não usado. 853 ÷ 450 ≈ 1,9 é conta nossa.
+
+- 22/11 (art. 7º da Constituição, descartada para 23/11): texto atualizado da Câmara (EC 141 html) sem permissão respondida (PROVENANCE_REQUIRED); EC 139 html/pdf devolvem tela de "Acesso Restrito"; Planalto bloqueado (PROVENANCE_REQUIRED). Segue no banco reserva.
+- 22/11 (CF-0050): Lei 10.741/2003 lida no texto atualizado da Câmara (normaatualizada; alteração mais recente visível: Lei 15.163/2025, arts. 94 e 99). Todos os números estão na lei; nenhuma conta nossa. Valor do salário mínimo não citado.
+- 22/11 (CF-0051): glossário MJSP/Febraban (gov.br/mj, out/2025, item 17) é a fonte primária; dicas da Febraban conferidas na matéria da Agência Brasil (12/05/2026), que reproduz o comunicado; página da própria Febraban não localizada. "Golpe da tarefa" e "renda extra" não constam do glossário e não foram usados como nome. Reel sem números.
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.

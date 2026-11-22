@@ -38,6 +38,8 @@
 - 21/11 (19h05, sem post no feed): energia elétrica residencial +3,23% em 12 meses até out/2026, abaixo do IPCA geral de 4,63% (IBGE, IPCA out/2026, PDF de 12/11/2026)
 - 22/11 (9h): solar = 25,30% da capacidade instalada em fev/2026 (66.512 de 262.848 MW, usinas + MMGD); eólica 13,25% (MME, Boletim Mensal de Monitoramento do Sistema Elétrico, fev/2026, p. 21-22, dados Aneel/SIGA)
 - 22/11 (19h05, sem post no feed): MMGD 45.671 MW em fev/2026 = 17,4% da capacidade; +22,4% em 12 meses (MME, Boletim Mensal fev/2026, p. 5 e 21-22)
+- 23/11 (9h): bandeiras tarifárias incidem só sobre o consumo faturado, não sobre o excedente compensado (Lei 14.300/2022, art. 19; publicação no Senado, legis.senado.leg.br/norma/35420157/publicacao/35420471, lida em 22/11)
+- 23/11 (19h05, sem post no feed): iluminação pública pode participar do SCEE; rede municipal considerada unidade com micro/minigeração, conforme requisitos da Aneel (Lei 14.300/2022, art. 20; mesma publicação)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -70,3 +72,4 @@
 - 20/11: para ter Tarifa Social é preciso pedir na distribuidora (Lei 12.212/2010, art. 4º, par. único, redação da Lei 14.203/2021: inscrição automática das famílias do CadÚnico que se enquadram; lido em 19/11)
 - 21/11: a taxa de iluminação pública da conta é da distribuidora (MME, "Entenda cada item cobrado na conta de luz", 03/07/2026: CIP municipal; ICMS estadual; PIS/Cofins federais; conferido em 24/10, reaproveitado porque a Câmara não abriu nesta execução)
 - 22/11: geração distribuída só pode ser solar (Lei 14.300/2022, art. 1º, XI e XIII: fontes renováveis ou cogeração qualificada; publicação original no Senado; MME fev/2026: solar 45.367 de 45.671 MW da MMGD, não citado em número)
+- 23/11: dá para alugar a usina cobrando em R$ por kWh e ainda compensar (Lei 14.300/2022, art. 10: distribuidora não pode incluir no SCEE se aluguel/arrendamento tiver valor em reais por unidade de energia; publicação no Senado, lida em 22/11)
