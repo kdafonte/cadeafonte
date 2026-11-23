@@ -59,6 +59,9 @@ política só com aprovação humana.
 | CF-0050 | 23/11 19h | Carrossel | Os números do Estatuto da Pessoa Idosa (60 anos; ônibus urbano grátis 65+, 60-65 lei local, 10% dos assentos; 2 vagas interestaduais grátis até 2 SM, depois ≥ 50%; ≥ 50% em ingressos; 5% das vagas; plano sem cobrança por idade; BPC 1 SM aos 65; prioridade 80+) | Lei 10.741/2003, texto atualizado da Câmara, arts. 1º, 3º § 2º, 15 § 3º, 23, 34, 39, 40, 41 e 71 |
 | CF-0053 | 24/11 12h | Reel | Golpe da falsa taxa de entrega: mensagem cobrando taxa para liberar encomenda, link para página que imita site oficial (sem números) | MJSP e Febraban, Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025), item 11 |
 | CF-0052 | 24/11 19h | Carrossel | Superendividamento: mínimo existencial de R$ 600 (Decreto 11.150, art. 3º, redação do Decreto 11.567/2023); o que fica fora do cálculo (art. 4º); CDC 54-A definição, 54-B informações (oferta válida ≥ 2 dias), 54-C proibições; 104-A plano até 5 anos, credor ausente; 104-B § 4º compulsório até 5 anos, 1ª parcela em até 180 dias | Lei 14.181/2021, publicação original (Câmara); Decreto 11.150/2022, texto atualizado (Câmara); Decreto 11.567/2023, publicação original |
+| CF-0054 | 25/11 21h | Trial Reel | Novo corte com gancho curto do CF-0037 (norte do Brasil em Roraima, não no Amapá; 4°26' x 5°16'; ≈ 92 km) — teste A/B de abertura | IBGE, Anuário Estatístico do Brasil 2023, Tabela 1.1.1.1 (Malhas 2022); conferido na edição 2024 em 23/11 |
+| CF-0055 | 26/11 21h | Trial Reel | Novo corte com gancho curto do CF-0031 (nenhum ponto chega a 3 mil m; Neblina 2.995,3; 31 de Março 2.974,2; Bandeira 2.891,4; 31 de 35 no Sudeste) — teste A/B de abertura | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.3.2.1 |
+| CF-0056 | RESERVA | Carrossel | Troca de presente: sem defeito na loja física é cortesia; promessa vincula; 30/90 dias (art. 26); 30 dias para sanar (art. 18 § 1º); 7 dias fora da loja (art. 49; Decreto 7.962, art. 5º) | CDC (Câmara, lido 12/11); Decreto 7.962/2013 (lido 21/11); Procon-SP em Agência Brasil (26/12/2022) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
@@ -166,3 +169,5 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
+
+- 23/11 (ciclo integrado): CF-0054 e CF-0055 são Trial Reels (só não seguidores no início), em horário extra (21h), para testar se a abertura curta (2,4 s) reduz a taxa de pulo. Reaproveitam apuração já publicada; nenhum número novo. CF-0056 fica no BANCO RESERVA (posts/cf0056): usar em dia em que as fontes não abrirem, antes de deixar o dia sem post; perto do Natal (troca de presente). Procon-SP lido na Agência Brasil (26/12/2022): "não obriga a loja ou o fornecedor a fazer uma troca por motivo de gosto ou tamanho".
