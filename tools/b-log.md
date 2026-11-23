@@ -40,6 +40,8 @@
 - 22/11 (19h05, sem post no feed): MMGD 45.671 MW em fev/2026 = 17,4% da capacidade; +22,4% em 12 meses (MME, Boletim Mensal fev/2026, p. 5 e 21-22)
 - 23/11 (9h): bandeiras tarifárias incidem só sobre o consumo faturado, não sobre o excedente compensado (Lei 14.300/2022, art. 19; publicação no Senado, legis.senado.leg.br/norma/35420157/publicacao/35420471, lida em 22/11)
 - 23/11 (19h05, sem post no feed): iluminação pública pode participar do SCEE; rede municipal considerada unidade com micro/minigeração, conforme requisitos da Aneel (Lei 14.300/2022, art. 20; mesma publicação)
+- 24/11 (9h): 195.465 km de linhas de transmissão no SEB em ago/2026; +4.598 km acumulados em 2026 (MME, Boletim Mensal de Monitoramento do Sistema Elétrico, ago/2026, p. 28 e 31)
+- 24/11 (19h05, sem post no feed): 4.656.941 usinas de MMGD em ago/2026 (coluna "N° de Usinas"), 53,9 GW, +25,8% em 12 meses (MME, Boletim Mensal ago/2026, p. 5 e 22)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -73,3 +75,4 @@
 - 21/11: a taxa de iluminação pública da conta é da distribuidora (MME, "Entenda cada item cobrado na conta de luz", 03/07/2026: CIP municipal; ICMS estadual; PIS/Cofins federais; conferido em 24/10, reaproveitado porque a Câmara não abriu nesta execução)
 - 22/11: geração distribuída só pode ser solar (Lei 14.300/2022, art. 1º, XI e XIII: fontes renováveis ou cogeração qualificada; publicação original no Senado; MME fev/2026: solar 45.367 de 45.671 MW da MMGD, não citado em número)
 - 23/11: dá para alugar a usina cobrando em R$ por kWh e ainda compensar (Lei 14.300/2022, art. 10: distribuidora não pode incluir no SCEE se aluguel/arrendamento tiver valor em reais por unidade de energia; publicação no Senado, lida em 22/11)
+- 24/11: a maior parte da solar está nas grandes usinas (MME, Boletim Mensal ago/2026, p. 22: solar MMGD 53.652 MW x solar não MMGD 23.647 MW)

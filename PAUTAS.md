@@ -57,12 +57,14 @@ política só com aprovação humana.
 | CF-0048 | 22/11 19h | Carrossel | Compra online: o que o Decreto 7.962/2013 exige da loja (nome, CNPJ, endereço; frete e seguro discriminados; sumário e correção de erros; resposta em até 5 dias; arrependimento pelo mesmo canal, cartão avisado para não lançar/estornar; 7 dias do CDC) | Decreto 7.962/2013, arts. 2º, 4º e 5º (Câmara, publicação original); Lei 8.078/1990, art. 49 |
 | CF-0051 | 23/11 12h | Reel | Golpe do falso emprego: falso recrutador, pedido de documentos/dados/assinatura digital e taxa antes da contratação (sem números) | MJSP e Febraban, Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025), item 17; comunicado da Febraban via Agência Brasil (12/05/2026) |
 | CF-0050 | 23/11 19h | Carrossel | Os números do Estatuto da Pessoa Idosa (60 anos; ônibus urbano grátis 65+, 60-65 lei local, 10% dos assentos; 2 vagas interestaduais grátis até 2 SM, depois ≥ 50%; ≥ 50% em ingressos; 5% das vagas; plano sem cobrança por idade; BPC 1 SM aos 65; prioridade 80+) | Lei 10.741/2003, texto atualizado da Câmara, arts. 1º, 3º § 2º, 15 § 3º, 23, 34, 39, 40, 41 e 71 |
+| CF-0053 | 24/11 12h | Reel | Golpe da falsa taxa de entrega: mensagem cobrando taxa para liberar encomenda, link para página que imita site oficial (sem números) | MJSP e Febraban, Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025), item 11 |
+| CF-0052 | 24/11 19h | Carrossel | Superendividamento: mínimo existencial de R$ 600 (Decreto 11.150, art. 3º, redação do Decreto 11.567/2023); o que fica fora do cálculo (art. 4º); CDC 54-A definição, 54-B informações (oferta válida ≥ 2 dias), 54-C proibições; 104-A plano até 5 anos, credor ausente; 104-B § 4º compulsório até 5 anos, 1ª parcela em até 180 dias | Lei 14.181/2021, publicação original (Câmara); Decreto 11.150/2022, texto atualizado (Câmara); Decreto 11.567/2023, publicação original |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 24/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 25/11 | nova pauta no mix | nova pauta no mix | a definir |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -158,6 +160,9 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 22/11 (art. 7º da Constituição, descartada para 23/11): texto atualizado da Câmara (EC 141 html) sem permissão respondida (PROVENANCE_REQUIRED); EC 139 html/pdf devolvem tela de "Acesso Restrito"; Planalto bloqueado (PROVENANCE_REQUIRED). Segue no banco reserva.
 - 22/11 (CF-0050): Lei 10.741/2003 lida no texto atualizado da Câmara (normaatualizada; alteração mais recente visível: Lei 15.163/2025, arts. 94 e 99). Todos os números estão na lei; nenhuma conta nossa. Valor do salário mínimo não citado.
 - 22/11 (CF-0051): glossário MJSP/Febraban (gov.br/mj, out/2025, item 17) é a fonte primária; dicas da Febraban conferidas na matéria da Agência Brasil (12/05/2026), que reproduz o comunicado; página da própria Febraban não localizada. "Golpe da tarefa" e "renda extra" não constam do glossário e não foram usados como nome. Reel sem números.
+
+- 23/11 (CF-0052): Lei 14.181/2021 lida na publicação original da Câmara (DOU 02/07/2021); Decreto 11.150/2022 no texto atualizado da Câmara (únicas notas de alteração: Decreto 11.567/2023, art. 3º caput e revogação do § 2º); Decreto 11.567/2023 na publicação original (DOU 20/06/2023). Página "Dados da Norma" do Decreto 11.150 não abriu (PROVENANCE_REQUIRED); alterações depois de 2023 não conferidas. Ferramenta só devolveu trechos curtos literais e descrição dos incisos (art. 4º do decreto e 54-C descritos, não transcritos). Sem contas nossas. Art. 54-C, I e par. único vetados.
+- 23/11 (CF-0053): glossário MJSP/Febraban (out/2025), item 11 "Falsa Taxa" (variações: falsa taxa de entrega, falso contato dos Correios/Alfândega). O glossário não traz recomendações de prevenção; a tela "Nossa dica" é orientação nossa, identificada como tal. Reel sem números. Lei 14.300 no Senado não abriu nesta execução (PROVENANCE_REQUIRED).
 
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
