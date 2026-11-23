@@ -171,3 +171,20 @@ Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em núme
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
 
 - 23/11 (ciclo integrado): CF-0054 e CF-0055 são Trial Reels (só não seguidores no início), em horário extra (21h), para testar se a abertura curta (2,4 s) reduz a taxa de pulo. Reaproveitam apuração já publicada; nenhum número novo. CF-0056 fica no BANCO RESERVA (posts/cf0056): usar em dia em que as fontes não abrirem, antes de deixar o dia sem post; perto do Natal (troca de presente). Procon-SP lido na Agência Brasil (26/12/2022): "não obriga a loja ou o fornecedor a fazer uma troca por motivo de gosto ou tamanho".
+
+## Fila 25 a 30/11 (ciclo de 23/11) — cada pauta só sai se a fonte primária confirmar
+
+| Data | Formato | Pauta (nº no banco do doc do ciclo) | Onde apurar |
+| --- | --- | --- | --- |
+| 25/11 12h | Reel | Dinheiro esquecido: como consultar o Sistema de Valores a Receber (#30), com alerta de golpe | Banco Central, SVR (regras e estatísticas) |
+| 25/11 19h | Carrossel | Quanto do litro da gasolina é tributo (#4) | ANP, levantamento de preços; Petrobras, composição de preços |
+| 26/11 12h | Reel | O maior município do Brasil é maior que vários estados (#22) | IBGE, áreas territoriais; Anuário Tab. 1.1.2.1 |
+| 26/11 19h | Carrossel | R$ 1.000 por 12 meses: poupança x Tesouro Selic (#13) | Banco Central (Selic, TR); Tesouro Direto |
+| 27/11 12h | Reel | Boleto falso: 3 conferências antes de pagar (#6) | Febraban; glossário MJSP/Febraban |
+| 27/11 19h | Carrossel | Por que a 2ª parcela do 13º vem menor (#8) | Lei 4.749/1965; Receita Federal |
+| 28/11 12h | Reel | Quantas línguas indígenas o Brasil tem (#24) | IBGE, Censo 2022 |
+| 28/11 19h | Carrossel | Quantas cestas básicas o salário mínimo compra (#20) | DIEESE, Cesta Básica |
+| 29/11 12h | Reel | O município menos populoso do Brasil (#23) | IBGE, Censo 2022 |
+| 29/11 19h | Carrossel | Abono salarial: quem tem direito (#10) | Lei 7.998/1990, art. 9º; MTE |
+| 30/11 12h | Reel | Trabalhou no feriado? Pagamento em dobro (#11) | Lei 605/1949, art. 9º; TST Súmula 146 |
+| 30/11 19h | Carrossel | Pagar só o mínimo do cartão: a conta (#2) | Banco Central, taxas médias; Res. CMN do rotativo |
