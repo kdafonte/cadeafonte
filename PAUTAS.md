@@ -61,13 +61,16 @@ política só com aprovação humana.
 | CF-0052 | 24/11 19h | Carrossel | Superendividamento: mínimo existencial de R$ 600 (Decreto 11.150, art. 3º, redação do Decreto 11.567/2023); o que fica fora do cálculo (art. 4º); CDC 54-A definição, 54-B informações (oferta válida ≥ 2 dias), 54-C proibições; 104-A plano até 5 anos, credor ausente; 104-B § 4º compulsório até 5 anos, 1ª parcela em até 180 dias | Lei 14.181/2021, publicação original (Câmara); Decreto 11.150/2022, texto atualizado (Câmara); Decreto 11.567/2023, publicação original |
 | CF-0054 | 25/11 21h | Trial Reel | Novo corte com gancho curto do CF-0037 (norte do Brasil em Roraima, não no Amapá; 4°26' x 5°16'; ≈ 92 km) — teste A/B de abertura | IBGE, Anuário Estatístico do Brasil 2023, Tabela 1.1.1.1 (Malhas 2022); conferido na edição 2024 em 23/11 |
 | CF-0055 | 26/11 21h | Trial Reel | Novo corte com gancho curto do CF-0031 (nenhum ponto chega a 3 mil m; Neblina 2.995,3; 31 de Março 2.974,2; Bandeira 2.891,4; 31 de 35 no Sudeste) — teste A/B de abertura | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.3.2.1 |
+| CF-0058 | 25/11 12h | Reel | Valores a Receber: único site (valoresareceber.bcb.gov.br), CPF + data de nascimento, gov.br prata/ouro + chave Pix, prazo informado de 12 dias úteis; BC não manda link nem liga; serviço gratuito | gov.br/Banco Central, "Consultar e solicitar a devolução de Valores a Receber" (mod. 27/01/2026) |
+| CF-0057 | 25/11 19h | Carrossel | Gasolina out x nov: litro −R$ 0,06 (6,54 → 6,48), federal −R$ 0,18 (0,24 → 0,06), etanol anidro +R$ 0,13; imposto 25,2% (era 27,7%); PIS/Cofins/Cide zerados até 9/12 | Petrobras, composição de preços (ANP, Cepea/USP), 08 a 14/11/2026 x 04 a 10/10/2026; Fazenda, nota de 10/11/2026 (Decreto 13.159/2026) |
+| CF-0059 | RESERVA | Carrossel | Cobrança indevida: dobro do pago a mais (art. 42 par. único), sem constrangimento (art. 42), dados do fornecedor (42-A), cadastro negativo 5 anos, comunicação por escrito, correção em 5 dias úteis (43 §§ 1º-3º) | CDC, texto atualizado da Câmara (lido 24/11) |
 | CF-0056 | RESERVA | Carrossel | Troca de presente: sem defeito na loja física é cortesia; promessa vincula; 30/90 dias (art. 26); 30 dias para sanar (art. 18 § 1º); 7 dias fora da loja (art. 49; Decreto 7.962, art. 5º) | CDC (Câmara, lido 12/11); Decreto 7.962/2013 (lido 21/11); Procon-SP em Agência Brasil (26/12/2022) |
 
 ## Fila (carrossel 19h · Reel 12h)
 
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
-| 25/11 | nova pauta no mix | nova pauta no mix | a definir |
+| 25/11 | CF-0057 (agendado) | CF-0058 (agendado) | — |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -167,6 +170,10 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 23/11 (CF-0052): Lei 14.181/2021 lida na publicação original da Câmara (DOU 02/07/2021); Decreto 11.150/2022 no texto atualizado da Câmara (únicas notas de alteração: Decreto 11.567/2023, art. 3º caput e revogação do § 2º); Decreto 11.567/2023 na publicação original (DOU 20/06/2023). Página "Dados da Norma" do Decreto 11.150 não abriu (PROVENANCE_REQUIRED); alterações depois de 2023 não conferidas. Ferramenta só devolveu trechos curtos literais e descrição dos incisos (art. 4º do decreto e 54-C descritos, não transcritos). Sem contas nossas. Art. 54-C, I e par. único vetados.
 - 23/11 (CF-0053): glossário MJSP/Febraban (out/2025), item 11 "Falsa Taxa" (variações: falsa taxa de entrega, falso contato dos Correios/Alfândega). O glossário não traz recomendações de prevenção; a tela "Nossa dica" é orientação nossa, identificada como tal. Reel sem números. Lei 14.300 no Senado não abriu nesta execução (PROVENANCE_REQUIRED).
 
+- 24/11 (CF-0057): composição da Petrobras lida na página precos.petrobras.com.br/en/precos-gasolina (coleta 08 a 14/11/2026, média Brasil); a de 04 a 10/10/2026 é a mesma conferida para o CF-0002 em 15/10. Pauta #4 do ciclo seria repetição do CF-0002; virou comparação out x nov (pauta nova). A página não separa CIDE, PIS e Cofins nem traz o % de mistura. Desoneração: nota da Fazenda de 10/11/2026 (Decreto 13.159/2026 não lido no DOU; usamos só o que a nota diz). Não afirmamos por que o etanol anidro subiu nem quem ficou com a diferença. Diferenças e 25,2% são contas nossas.
+- 24/11 (CF-0058): página de serviço do gov.br (mod. 27/01/2026); sem estatísticas do SVR (só matérias com valores conflitantes de R$ 6 bi a R$ 10 bi; não usadas). Reel sem números além do prazo de 12 dias úteis informado na página.
+- 24/11 (CF-0059, reserva): CDC lido no texto atualizado da Câmara; arts. 42, 42-A e 43 conferidos no trecho literal; art. 71 (crime de cobrança vexatória) não conferido literalmente e não usado.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
 
@@ -176,8 +183,8 @@ proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir
 
 | Data | Formato | Pauta (nº no banco do doc do ciclo) | Onde apurar |
 | --- | --- | --- | --- |
-| 25/11 12h | Reel | Dinheiro esquecido: como consultar o Sistema de Valores a Receber (#30), com alerta de golpe | Banco Central, SVR (regras e estatísticas) |
-| 25/11 19h | Carrossel | Quanto do litro da gasolina é tributo (#4) | ANP, levantamento de preços; Petrobras, composição de preços |
+| 25/11 12h ✔ CF-0058 | Reel | Dinheiro esquecido: como consultar o Sistema de Valores a Receber (#30), com alerta de golpe | Banco Central, SVR (regras e estatísticas) |
+| 25/11 19h ✔ CF-0057 | Carrossel | Quanto do litro da gasolina é tributo (#4) | ANP, levantamento de preços; Petrobras, composição de preços |
 | 26/11 12h | Reel | O maior município do Brasil é maior que vários estados (#22) | IBGE, áreas territoriais; Anuário Tab. 1.1.2.1 |
 | 26/11 19h | Carrossel | R$ 1.000 por 12 meses: poupança x Tesouro Selic (#13) | Banco Central (Selic, TR); Tesouro Direto |
 | 27/11 12h | Reel | Boleto falso: 3 conferências antes de pagar (#6) | Febraban; glossário MJSP/Febraban |
