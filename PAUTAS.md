@@ -63,6 +63,8 @@ política só com aprovação humana.
 | CF-0055 | 26/11 21h | Trial Reel | Novo corte com gancho curto do CF-0031 (nenhum ponto chega a 3 mil m; Neblina 2.995,3; 31 de Março 2.974,2; Bandeira 2.891,4; 31 de 35 no Sudeste) — teste A/B de abertura | IBGE, Anuário Estatístico do Brasil 2024, Tabela 1.3.2.1 |
 | CF-0058 | 25/11 12h | Reel | Valores a Receber: único site (valoresareceber.bcb.gov.br), CPF + data de nascimento, gov.br prata/ouro + chave Pix, prazo informado de 12 dias úteis; BC não manda link nem liga; serviço gratuito | gov.br/Banco Central, "Consultar e solicitar a devolução de Valores a Receber" (mod. 27/01/2026) |
 | CF-0057 | 25/11 19h | Carrossel | Gasolina out x nov: litro −R$ 0,06 (6,54 → 6,48), federal −R$ 0,18 (0,24 → 0,06), etanol anidro +R$ 0,13; imposto 25,2% (era 27,7%); PIS/Cofins/Cide zerados até 9/12 | Petrobras, composição de preços (ANP, Cepea/USP), 08 a 14/11/2026 x 04 a 10/10/2026; Fazenda, nota de 10/11/2026 (Decreto 13.159/2026) |
+| CF-0060 | 26/11 12h | Reel | Altamira (PA), 159.533 km², maior que 10 estados e o DF (Ceará 148.894: +10.639 km²; RJ+ES+AL+SE = 139.594, sobram 19.940; 3,6 x RJ; menor que o Acre, 164.083) | IBGE, Áreas Territoriais (malha 2019, release 27737); Anuário Estatístico 2024, Tab. 1.1.2.1 (malha 2024) |
+| CF-0061 | 26/11 19h ✔ CF-0061 | Carrossel | R$ 1.000 por 12 meses: poupança R$ 61,68 (0,5% a.m., sem TR) x Tesouro Selic R$ 113,44 líquido (13,75% − IR 17,5%); diferença R$ 51,76 | Lei 8.177/1991, art. 12 (Lei 12.703/2012); Lei 8.981/1995, art. 68, III; Lei 11.033/2004, art. 1º; ata da 282ª reunião do Copom; B3, Tarifas de Tesouro Direto; gov.br Portal do Investidor |
 | CF-0059 | RESERVA | Carrossel | Cobrança indevida: dobro do pago a mais (art. 42 par. único), sem constrangimento (art. 42), dados do fornecedor (42-A), cadastro negativo 5 anos, comunicação por escrito, correção em 5 dias úteis (43 §§ 1º-3º) | CDC, texto atualizado da Câmara (lido 24/11) |
 | CF-0056 | RESERVA | Carrossel | Troca de presente: sem defeito na loja física é cortesia; promessa vincula; 30/90 dias (art. 26); 30 dias para sanar (art. 18 § 1º); 7 dias fora da loja (art. 49; Decreto 7.962, art. 5º) | CDC (Câmara, lido 12/11); Decreto 7.962/2013 (lido 21/11); Procon-SP em Agência Brasil (26/12/2022) |
 
@@ -71,6 +73,7 @@ política só com aprovação humana.
 | Data | Carrossel | Reel | Fonte prevista |
 | --- | --- | --- | --- |
 | 25/11 | CF-0057 (agendado) | CF-0058 (agendado) | — |
+| 26/11 | CF-0061 (agendado) | CF-0060 (agendado) | — |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -174,6 +177,10 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 24/11 (CF-0058): página de serviço do gov.br (mod. 27/01/2026); sem estatísticas do SVR (só matérias com valores conflitantes de R$ 6 bi a R$ 10 bi; não usadas). Reel sem números além do prazo de 12 dias úteis informado na página.
 - 24/11 (CF-0059, reserva): CDC lido no texto atualizado da Câmara; arts. 42, 42-A e 43 conferidos no trecho literal; art. 71 (crime de cobrança vexatória) não conferido literalmente e não usado.
 
+- 25/11 (CF-0060): área de Altamira só confirmada no release do IBGE de 20/05/2020 (Áreas Territoriais, malha 2019: 159.533,328 km², "o mais extenso"); páginas Cidades e Áreas dos Municípios não abriram. Áreas dos estados da Tabela 1.1.2.1 do Anuário 2024 (malha 2024). Limitação: vintages diferentes; menor folga usada é 10.639 km² (Ceará), muito acima de qualquer revisão de malha. 10 estados menores: CE, AP, PE, SC, PB, RN, ES, RJ, AL, SE (+ DF).
+- 25/11 (CF-0061): Selic 13,75% na ata da 282ª reunião do Copom (par. 17); regra da poupança na Lei 12.703/2012 (planalto) e na página do BC; TR fora da conta (sem valor confirmado). IR 22,5/20/17,5/15% na Lei 11.033/2004, art. 1º (nota da MP 1.303/2025 marcada "Vigência encerrada"). Isenção de IR da poupança (Lei 8.981/1995, art. 68, III) lida só em extração resumida de duas cópias oficiais (Planalto e Senado), não em trecho literal. Custódia: B3 (0,20% a.a.; Tesouro Selic isento até R$ 10.000 por CPF) e gov.br Portal do Investidor ("Seu rendimento segue a Taxa Selic"). Simulação: 12 meses = 365 dias (faixa 361-720), Selic constante, sem custódia (saldo < R$ 10 mil).
+- 25/11 (reserva): banco reserva com 2 peças; peça extra não produzida nesta execução (fontes abrindo só parcialmente, via extração).
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
 
@@ -185,8 +192,8 @@ proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir
 | --- | --- | --- | --- |
 | 25/11 12h ✔ CF-0058 | Reel | Dinheiro esquecido: como consultar o Sistema de Valores a Receber (#30), com alerta de golpe | Banco Central, SVR (regras e estatísticas) |
 | 25/11 19h ✔ CF-0057 | Carrossel | Quanto do litro da gasolina é tributo (#4) | ANP, levantamento de preços; Petrobras, composição de preços |
-| 26/11 12h | Reel | O maior município do Brasil é maior que vários estados (#22) | IBGE, áreas territoriais; Anuário Tab. 1.1.2.1 |
-| 26/11 19h | Carrossel | R$ 1.000 por 12 meses: poupança x Tesouro Selic (#13) | Banco Central (Selic, TR); Tesouro Direto |
+| 26/11 12h ✔ CF-0060 | Reel | O maior município do Brasil é maior que vários estados (#22) | IBGE, áreas territoriais; Anuário Tab. 1.1.2.1 |
+| 26/11 19h ✔ CF-0061 | Carrossel | R$ 1.000 por 12 meses: poupança x Tesouro Selic (#13) | Banco Central (Selic, TR); Tesouro Direto |
 | 27/11 12h | Reel | Boleto falso: 3 conferências antes de pagar (#6) | Febraban; glossário MJSP/Febraban |
 | 27/11 19h | Carrossel | Por que a 2ª parcela do 13º vem menor (#8) | Lei 4.749/1965; Receita Federal |
 | 28/11 12h | Reel | Quantas línguas indígenas o Brasil tem (#24) | IBGE, Censo 2022 |
