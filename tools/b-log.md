@@ -46,6 +46,8 @@
 - 25/11 (19h05, sem post no feed): leilões de energia existente A-1, A-2 e A-3 de 13/11/2026 movimentaram cerca de R$ 14,25 bi (MME, notícia de 13/11/2026; só o título conferido literalmente)
 - 26/11 (9h): ONS é pessoa jurídica de direito privado, sem fins lucrativos, fiscalizada e regulada pela Aneel; coordena e controla a operação da geração e da transmissão no SIN (Lei 9.648/1998, art. 13, redação da Lei 13.360/2016; texto compilado do Planalto, extração resumida)
 - 26/11 (19h05, sem post no feed): CCEE é pessoa jurídica de direito privado, sem fins lucrativos, sob regulação e fiscalização da Aneel, para viabilizar a comercialização de energia (Lei 10.848/2004, art. 4º; texto compilado do Planalto, extração resumida)
+- 27/11 (9h): EPE é empresa pública vinculada ao MME; estudos e pesquisas para subsidiar o planejamento do setor energético; elabora e publica o Balanço Energético Nacional (Lei 10.847/2004, arts. 1º, 2º e 4º, II; texto atualizado da Câmara)
+- 27/11 (19h05, sem post no feed): aparelhos fora das especificações de eficiência devem ser recolhidos por fabricantes e importadores em até 30 dias; depois, multa por unidade de até 100% do preço de venda, fixada em regulamento (Lei 10.295/2001, art. 3º, §§ 2º e 3º; Planalto)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -82,3 +84,4 @@
 - 24/11: a maior parte da solar está nas grandes usinas (MME, Boletim Mensal ago/2026, p. 22: solar MMGD 53.652 MW x solar não MMGD 23.647 MW)
 - 25/11: a bandeira do mês é anunciada de surpresa (Aneel, calendário de acionamento 2026, publ. 07/01/2026, mod. 17/07/2026: datas fixas; dezembro em 27/11/2026)
 - 26/11: mercado livre e geração distribuída são a mesma coisa (Lei 10.848/2004, art. 4º: comercialização viabilizada pela CCEE; Lei 14.300/2022, art. 1º: micro/minigeração e crédito de energia)
+- 27/11: cumprir eficiência mínima é opcional para o fabricante (Lei 10.295/2001, arts. 2º e 3º: Poder Executivo fixa níveis máximos de consumo/mínimos de eficiência para aparelhos fabricados ou comercializados no país; fabricantes e importadores obrigados; Planalto)

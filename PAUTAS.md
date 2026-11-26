@@ -65,6 +65,9 @@ política só com aprovação humana.
 | CF-0057 | 25/11 19h | Carrossel | Gasolina out x nov: litro −R$ 0,06 (6,54 → 6,48), federal −R$ 0,18 (0,24 → 0,06), etanol anidro +R$ 0,13; imposto 25,2% (era 27,7%); PIS/Cofins/Cide zerados até 9/12 | Petrobras, composição de preços (ANP, Cepea/USP), 08 a 14/11/2026 x 04 a 10/10/2026; Fazenda, nota de 10/11/2026 (Decreto 13.159/2026) |
 | CF-0060 | 26/11 12h | Reel | Altamira (PA), 159.533 km², maior que 10 estados e o DF (Ceará 148.894: +10.639 km²; RJ+ES+AL+SE = 139.594, sobram 19.940; 3,6 x RJ; menor que o Acre, 164.083) | IBGE, Áreas Territoriais (malha 2019, release 27737); Anuário Estatístico 2024, Tab. 1.1.2.1 (malha 2024) |
 | CF-0061 | 26/11 19h ✔ CF-0061 | Carrossel | R$ 1.000 por 12 meses: poupança R$ 61,68 (0,5% a.m., sem TR) x Tesouro Selic R$ 113,44 líquido (13,75% − IR 17,5%); diferença R$ 51,76 | Lei 8.177/1991, art. 12 (Lei 12.703/2012); Lei 8.981/1995, art. 68, III; Lei 11.033/2004, art. 1º; ata da 282ª reunião do Copom; B3, Tarifas de Tesouro Direto; gov.br Portal do Investidor |
+| CF-0062 | 27/11 12h ✔ CF-0062 | Reel | Boleto falso: boleto adulterado em nome de banco ou loja, pagamento cai em outra conta; 3 conferências (beneficiário no app, 3 primeiros números do código de barras = banco, PDF/DDA); SAC na dúvida (sem números) | MJSP e Febraban, Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025), item 32; orientações da Febraban via CNN Brasil (01/04/2024) |
+| CF-0063 | 27/11 19h | Carrossel | 2ª parcela do 13º: 1/12 da remuneração de dezembro por mês (15 dias = mês); 1ª parcela = ½ do salário do mês anterior, fev-nov, sem desconto; 2ª até 20/12 abatendo o adiantamento; INSS sobre o bruto sem compensar adiantamento, devido na última parcela; IR na quitação, sem retenção no adiantamento; exemplo R$ 3.000 | Lei 4.090/1962, art. 1º; Lei 4.749/1965, arts. 1º e 2º; Decreto 3.048/1999, art. 214, §§ 6º e 7º; Receita, Manual do IRRF 2025, p. 195; Lei 8.212/1991, art. 28, § 7º |
+| CF-0064 | RESERVA | Carrossel | 13º proporcional (1/12 por mês; 15 dias = mês; admitido 10/08: 5/12 × 2.400 = 1.000) | Lei 4.090/1962, art. 1º, §§ 1º e 2º (Câmara, texto atualizado) |
 | CF-0059 | RESERVA | Carrossel | Cobrança indevida: dobro do pago a mais (art. 42 par. único), sem constrangimento (art. 42), dados do fornecedor (42-A), cadastro negativo 5 anos, comunicação por escrito, correção em 5 dias úteis (43 §§ 1º-3º) | CDC, texto atualizado da Câmara (lido 24/11) |
 | CF-0056 | RESERVA | Carrossel | Troca de presente: sem defeito na loja física é cortesia; promessa vincula; 30/90 dias (art. 26); 30 dias para sanar (art. 18 § 1º); 7 dias fora da loja (art. 49; Decreto 7.962, art. 5º) | CDC (Câmara, lido 12/11); Decreto 7.962/2013 (lido 21/11); Procon-SP em Agência Brasil (26/12/2022) |
 
@@ -74,6 +77,7 @@ política só com aprovação humana.
 | --- | --- | --- | --- |
 | 25/11 | CF-0057 (agendado) | CF-0058 (agendado) | — |
 | 26/11 | CF-0061 (agendado) | CF-0060 (agendado) | — |
+| 27/11 | CF-0063 (agendado) | CF-0062 (agendado) | — |
 
 Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII com nova redação pela EC 141/2026, 40 h semanais; ler o art. 6º da EC 141 antes); os nomes mais comuns do Brasil (só com o ranking aberto na fonte do IBGE, censo2022.ibge.gov.br/nomes).
 
@@ -181,6 +185,10 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 25/11 (CF-0061): Selic 13,75% na ata da 282ª reunião do Copom (par. 17); regra da poupança na Lei 12.703/2012 (planalto) e na página do BC; TR fora da conta (sem valor confirmado). IR 22,5/20/17,5/15% na Lei 11.033/2004, art. 1º (nota da MP 1.303/2025 marcada "Vigência encerrada"). Isenção de IR da poupança (Lei 8.981/1995, art. 68, III) lida só em extração resumida de duas cópias oficiais (Planalto e Senado), não em trecho literal. Custódia: B3 (0,20% a.a.; Tesouro Selic isento até R$ 10.000 por CPF) e gov.br Portal do Investidor ("Seu rendimento segue a Taxa Selic"). Simulação: 12 meses = 365 dias (faixa 361-720), Selic constante, sem custódia (saldo < R$ 10 mil).
 - 25/11 (reserva): banco reserva com 2 peças; peça extra não produzida nesta execução (fontes abrindo só parcialmente, via extração).
 
+- 26/11 (CF-0062): glossário MJSP/Febraban (out/2025), item 32 "Golpe do Boleto Adulterado" (variação "Falso boleto"), lido só em trecho curto + paráfrase. Dicas (beneficiário, 3 primeiros dígitos = banco, PDF, DDA, SAC) da Febraban via CNN Brasil (01/04/2024); página da própria Febraban não localizada; atualidade das dicas não conferida. Estimativa de R$ 450 mi/ano da PCR não usada. Reel sem números.
+- 26/11 (CF-0063): Lei 4.749/1965 na publicação original da Câmara (conferida no Planalto); Lei 4.090/1962 no texto atualizado da Câmara; Decreto 3.048/1999, art. 214, §§ 6º e 7º, no compilado do Planalto (sem nota de alteração); Lei 8.212/1991, art. 28, § 7º, no consolidado do Planalto; Manual do IRRF 2025 (Receita), p. 195, alíneas a-d (edição 2026 não procurada). Art. 26 da Lei 7.713/1988 tem faixas em cruzeiros; não usado. Valores de INSS e IR não calculados (tabelas não lidas). Exemplo R$ 3.000 é conta nossa.
+- 26/11 (CF-0064, reserva): Lei 4.090/1962, art. 1º, §§ 1º e 2º (texto atualizado da Câmara). Rescisão, faltas e médias de variáveis fora. Exemplo é conta nossa.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
 
@@ -195,7 +203,7 @@ proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir
 | 26/11 12h ✔ CF-0060 | Reel | O maior município do Brasil é maior que vários estados (#22) | IBGE, áreas territoriais; Anuário Tab. 1.1.2.1 |
 | 26/11 19h ✔ CF-0061 | Carrossel | R$ 1.000 por 12 meses: poupança x Tesouro Selic (#13) | Banco Central (Selic, TR); Tesouro Direto |
 | 27/11 12h | Reel | Boleto falso: 3 conferências antes de pagar (#6) | Febraban; glossário MJSP/Febraban |
-| 27/11 19h | Carrossel | Por que a 2ª parcela do 13º vem menor (#8) | Lei 4.749/1965; Receita Federal |
+| 27/11 19h ✔ CF-0063 | Carrossel | Por que a 2ª parcela do 13º vem menor (#8) | Lei 4.749/1965; Receita Federal |
 | 28/11 12h | Reel | Quantas línguas indígenas o Brasil tem (#24) | IBGE, Censo 2022 |
 | 28/11 19h | Carrossel | Quantas cestas básicas o salário mínimo compra (#20) | DIEESE, Cesta Básica |
 | 29/11 12h | Reel | O município menos populoso do Brasil (#23) | IBGE, Censo 2022 |
