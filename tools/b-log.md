@@ -48,6 +48,8 @@
 - 26/11 (19h05, sem post no feed): CCEE é pessoa jurídica de direito privado, sem fins lucrativos, sob regulação e fiscalização da Aneel, para viabilizar a comercialização de energia (Lei 10.848/2004, art. 4º; texto compilado do Planalto, extração resumida)
 - 27/11 (9h): EPE é empresa pública vinculada ao MME; estudos e pesquisas para subsidiar o planejamento do setor energético; elabora e publica o Balanço Energético Nacional (Lei 10.847/2004, arts. 1º, 2º e 4º, II; texto atualizado da Câmara)
 - 27/11 (19h05, sem post no feed): aparelhos fora das especificações de eficiência devem ser recolhidos por fabricantes e importadores em até 30 dias; depois, multa por unidade de até 100% do preço de venda, fixada em regulamento (Lei 10.295/2001, art. 3º, §§ 2º e 3º; Planalto)
+- 28/11 (9h): Horária Azul disponível para todos os subgrupos do Grupo A; Horária Verde (única tarifa de demanda) só para A3a, A4 e AS (Aneel, "Modalidades tarifárias", mod. 11/03/2022)
+- 28/11 (19h05, sem post no feed): Grupo B tem 4 subgrupos: Residencial B1, Rural B2, Demais Classes B3, Iluminação Pública B4 (Aneel, "Modalidades tarifárias", mod. 11/03/2022)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -85,3 +87,4 @@
 - 25/11: a bandeira do mês é anunciada de surpresa (Aneel, calendário de acionamento 2026, publ. 07/01/2026, mod. 17/07/2026: datas fixas; dezembro em 27/11/2026)
 - 26/11: mercado livre e geração distribuída são a mesma coisa (Lei 10.848/2004, art. 4º: comercialização viabilizada pela CCEE; Lei 14.300/2022, art. 1º: micro/minigeração e crédito de energia)
 - 27/11: cumprir eficiência mínima é opcional para o fabricante (Lei 10.295/2001, arts. 2º e 3º: Poder Executivo fixa níveis máximos de consumo/mínimos de eficiência para aparelhos fabricados ou comercializados no país; fabricantes e importadores obrigados; Planalto)
+- 28/11: qualquer consumidor de baixa tensão pode aderir à Tarifa Branca (Aneel, "Modalidades tarifárias", mod. 11/03/2022: não disponível para o subgrupo B4 nem para a subclasse Baixa Renda do B1)

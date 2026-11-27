@@ -68,6 +68,8 @@ política só com aprovação humana.
 | CF-0062 | 27/11 12h ✔ CF-0062 | Reel | Boleto falso: boleto adulterado em nome de banco ou loja, pagamento cai em outra conta; 3 conferências (beneficiário no app, 3 primeiros números do código de barras = banco, PDF/DDA); SAC na dúvida (sem números) | MJSP e Febraban, Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025), item 32; orientações da Febraban via CNN Brasil (01/04/2024) |
 | CF-0063 | 27/11 19h | Carrossel | 2ª parcela do 13º: 1/12 da remuneração de dezembro por mês (15 dias = mês); 1ª parcela = ½ do salário do mês anterior, fev-nov, sem desconto; 2ª até 20/12 abatendo o adiantamento; INSS sobre o bruto sem compensar adiantamento, devido na última parcela; IR na quitação, sem retenção no adiantamento; exemplo R$ 3.000 | Lei 4.090/1962, art. 1º; Lei 4.749/1965, arts. 1º e 2º; Decreto 3.048/1999, art. 214, §§ 6º e 7º; Receita, Manual do IRRF 2025, p. 195; Lei 8.212/1991, art. 28, § 7º |
 | CF-0064 | RESERVA | Carrossel | 13º proporcional (1/12 por mês; 15 dias = mês; admitido 10/08: 5/12 × 2.400 = 1.000) | Lei 4.090/1962, art. 1º, §§ 1º e 2º (Câmara, texto atualizado) |
+| CF-0065 | 28/11 12h | Reel | Brasil tem 295 línguas indígenas (474.856 falantes de 2+ anos; Tikúna 51.978, Guarani Kaiowá 38.658, Guajajara 29.212; 391 etnias) | IBGE, Censo 2022, Agência IBGE (24/10/2025) |
+| CF-0066 | 28/11 19h | Carrossel | Cestas por salário mínimo líquido (SP 1,58; Aracaju 2,42; média 1,92; SP 129h07m; cesta subiu nas 27 capitais em outubro) | DIEESE, Cesta Básica out/2026 (10/11/2026), Tabela 1, p. 3; p. 4 |
 | CF-0059 | RESERVA | Carrossel | Cobrança indevida: dobro do pago a mais (art. 42 par. único), sem constrangimento (art. 42), dados do fornecedor (42-A), cadastro negativo 5 anos, comunicação por escrito, correção em 5 dias úteis (43 §§ 1º-3º) | CDC, texto atualizado da Câmara (lido 24/11) |
 | CF-0056 | RESERVA | Carrossel | Troca de presente: sem defeito na loja física é cortesia; promessa vincula; 30/90 dias (art. 26); 30 dias para sanar (art. 18 § 1º); 7 dias fora da loja (art. 49; Decreto 7.962, art. 5º) | CDC (Câmara, lido 12/11); Decreto 7.962/2013 (lido 21/11); Procon-SP em Agência Brasil (26/12/2022) |
 
@@ -189,6 +191,9 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 26/11 (CF-0063): Lei 4.749/1965 na publicação original da Câmara (conferida no Planalto); Lei 4.090/1962 no texto atualizado da Câmara; Decreto 3.048/1999, art. 214, §§ 6º e 7º, no compilado do Planalto (sem nota de alteração); Lei 8.212/1991, art. 28, § 7º, no consolidado do Planalto; Manual do IRRF 2025 (Receita), p. 195, alíneas a-d (edição 2026 não procurada). Art. 26 da Lei 7.713/1988 tem faixas em cruzeiros; não usado. Valores de INSS e IR não calculados (tabelas não lidas). Exemplo R$ 3.000 é conta nossa.
 - 26/11 (CF-0064, reserva): Lei 4.090/1962, art. 1º, §§ 1º e 2º (texto atualizado da Câmara). Rescisão, faltas e médias de variáveis fora. Exemplo é conta nossa.
 
+- 27/11 (CF-0065): página da Agência IBGE em inglês (notícia 44866, 24/10/2025, atual. 29/10/2025) lida; versão em português não aberta. Comparações com 2010 (274 línguas e 293.853 → 433,980 falantes) não usadas: base de idade diferente (5+ em 2010 x 2+ em 2022) e página inconsistente sobre dentro/fora de Terras Indígenas. Afirmação "português é a língua oficial" retirada (CF, art. 13, não lida nesta execução). Sem contas nossas.
+- 27/11 (CF-0066): PDF do DIEESE de outubro/2026 (10/11/2026) lido; tabela das 27 capitais lida literalmente (p. 3); médias e desconto de 7,5% da Previdência na p. 4. Cestas por salário = 100 ÷ % do mínimo líquido, conferido também por 1.499,43 ÷ custo. CF-0014 usou o mínimo bruto (SP 1,93 em jan/26); por isso o carrossel mostra também o bruto de SP (1,70). Seções por capital a partir da p. 18 não lidas literalmente e não usadas.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
 
@@ -204,8 +209,8 @@ proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir
 | 26/11 19h ✔ CF-0061 | Carrossel | R$ 1.000 por 12 meses: poupança x Tesouro Selic (#13) | Banco Central (Selic, TR); Tesouro Direto |
 | 27/11 12h | Reel | Boleto falso: 3 conferências antes de pagar (#6) | Febraban; glossário MJSP/Febraban |
 | 27/11 19h ✔ CF-0063 | Carrossel | Por que a 2ª parcela do 13º vem menor (#8) | Lei 4.749/1965; Receita Federal |
-| 28/11 12h | Reel | Quantas línguas indígenas o Brasil tem (#24) | IBGE, Censo 2022 |
-| 28/11 19h | Carrossel | Quantas cestas básicas o salário mínimo compra (#20) | DIEESE, Cesta Básica |
+| 28/11 12h ✔ CF-0065 | Reel | Quantas línguas indígenas o Brasil tem (#24) | IBGE, Censo 2022 |
+| 28/11 19h ✔ CF-0066 | Carrossel | Quantas cestas básicas o salário mínimo compra (#20) | DIEESE, Cesta Básica |
 | 29/11 12h | Reel | O município menos populoso do Brasil (#23) | IBGE, Censo 2022 |
 | 29/11 19h | Carrossel | Abono salarial: quem tem direito (#10) | Lei 7.998/1990, art. 9º; MTE |
 | 30/11 12h | Reel | Trabalhou no feriado? Pagamento em dobro (#11) | Lei 605/1949, art. 9º; TST Súmula 146 |
