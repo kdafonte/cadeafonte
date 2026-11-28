@@ -50,6 +50,8 @@
 - 27/11 (19h05, sem post no feed): aparelhos fora das especificações de eficiência devem ser recolhidos por fabricantes e importadores em até 30 dias; depois, multa por unidade de até 100% do preço de venda, fixada em regulamento (Lei 10.295/2001, art. 3º, §§ 2º e 3º; Planalto)
 - 28/11 (9h): Horária Azul disponível para todos os subgrupos do Grupo A; Horária Verde (única tarifa de demanda) só para A3a, A4 e AS (Aneel, "Modalidades tarifárias", mod. 11/03/2022)
 - 28/11 (19h05, sem post no feed): Grupo B tem 4 subgrupos: Residencial B1, Rural B2, Demais Classes B3, Iluminação Pública B4 (Aneel, "Modalidades tarifárias", mod. 11/03/2022)
+- 29/11 (9h): bandeira verde em dezembro/2026, terceiro mês seguido sem cobrança extra, depois de amarela de maio a setembro; bandeira de janeiro anunciada em 23/12 (Aneel, decisão de 27/11/2026, via Agência Brasil/Radioagência Nacional)
+- 29/11 (19h05, sem post no feed): motivo da verde em dezembro: chuvas elevaram reservatórios e a geração hidrelétrica, menos necessidade de termelétricas, que produzem energia mais cara (Aneel, 27/11/2026, via Agência Brasil)
 
 ## 13h — Mito ou verdade?
 - 16/10: painel não gera em dia nublado
@@ -88,3 +90,4 @@
 - 26/11: mercado livre e geração distribuída são a mesma coisa (Lei 10.848/2004, art. 4º: comercialização viabilizada pela CCEE; Lei 14.300/2022, art. 1º: micro/minigeração e crédito de energia)
 - 27/11: cumprir eficiência mínima é opcional para o fabricante (Lei 10.295/2001, arts. 2º e 3º: Poder Executivo fixa níveis máximos de consumo/mínimos de eficiência para aparelhos fabricados ou comercializados no país; fabricantes e importadores obrigados; Planalto)
 - 28/11: qualquer consumidor de baixa tensão pode aderir à Tarifa Branca (Aneel, "Modalidades tarifárias", mod. 11/03/2022: não disponível para o subgrupo B4 nem para a subclasse Baixa Renda do B1)
+- 29/11: solar ligada à rede mantém a casa com luz quando a rede cai (norma DIS-NOR-031 da Neoenergia, REV. 00, 10/07/2020, itens 7.16.2 e 7.29.1: desconexão automática na falta da rede, anti-ilhamento, segurança das equipes; NBR 16149/16150 e IEC 62116; backup exige baterias, sem números)

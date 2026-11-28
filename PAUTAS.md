@@ -70,6 +70,8 @@ política só com aprovação humana.
 | CF-0064 | RESERVA | Carrossel | 13º proporcional (1/12 por mês; 15 dias = mês; admitido 10/08: 5/12 × 2.400 = 1.000) | Lei 4.090/1962, art. 1º, §§ 1º e 2º (Câmara, texto atualizado) |
 | CF-0065 | 28/11 12h | Reel | Brasil tem 295 línguas indígenas (474.856 falantes de 2+ anos; Tikúna 51.978, Guarani Kaiowá 38.658, Guajajara 29.212; 391 etnias) | IBGE, Censo 2022, Agência IBGE (24/10/2025) |
 | CF-0066 | 28/11 19h | Carrossel | Cestas por salário mínimo líquido (SP 1,58; Aracaju 2,42; média 1,92; SP 129h07m; cesta subiu nas 27 capitais em outubro) | DIEESE, Cesta Básica out/2026 (10/11/2026), Tabela 1, p. 3; p. 4 |
+| CF-0067 | 29/11 12h | Reel | Brasil tem 6 milhões de mulheres a mais (104.548.325 mulheres, 51,5%; 98.532.431 homens, 48,5%; ≈ 94 homens por 100 mulheres; Santos 82,89 e Balbinos 443,64) | IBGE, Censo 2022, Primeiros resultados: população por idade e sexo (ref. 01/08/2022) |
+| CF-0068 | 29/11 19h | Carrossel | Abono salarial 2026: saque até 29/12; 30 dias em 2024, média até R$ 2.766 (R$ 2.640 × INPC 4,77%), 5 anos de PIS/Pasep; piso do limite 1,5 SM; 1/12 do mínimo por mês (12 m R$ 1.621; 6 m R$ 811; 1 m R$ 136); pedido em até 5 anos depois | CF, art. 239, §§ 3º e 3º-A (EC 135/2024, publicação original, Câmara); Lei 7.998/1990, art. 9º (Planalto, compilado); MTE via Agência Gov (16/02/2026) |
 | CF-0059 | RESERVA | Carrossel | Cobrança indevida: dobro do pago a mais (art. 42 par. único), sem constrangimento (art. 42), dados do fornecedor (42-A), cadastro negativo 5 anos, comunicação por escrito, correção em 5 dias úteis (43 §§ 1º-3º) | CDC, texto atualizado da Câmara (lido 24/11) |
 | CF-0056 | RESERVA | Carrossel | Troca de presente: sem defeito na loja física é cortesia; promessa vincula; 30/90 dias (art. 26); 30 dias para sanar (art. 18 § 1º); 7 dias fora da loja (art. 49; Decreto 7.962, art. 5º) | CDC (Câmara, lido 12/11); Decreto 7.962/2013 (lido 21/11); Procon-SP em Agência Brasil (26/12/2022) |
 
@@ -194,6 +196,10 @@ Banco reserva: direitos do art. 7º da Constituição (atenção: inciso XIII co
 - 27/11 (CF-0065): página da Agência IBGE em inglês (notícia 44866, 24/10/2025, atual. 29/10/2025) lida; versão em português não aberta. Comparações com 2010 (274 línguas e 293.853 → 433.980 falantes) não usadas: base de idade diferente (5+ em 2010 x 2+ em 2022) e página inconsistente sobre dentro/fora de Terras Indígenas. Afirmação "português é a língua oficial" retirada (CF, art. 13, não lida nesta execução). Sem contas nossas.
 - 27/11 (CF-0066): PDF do DIEESE de outubro/2026 (10/11/2026) lido; tabela das 27 capitais lida literalmente (p. 3); médias e desconto de 7,5% da Previdência na p. 4. Cestas por salário = 100 ÷ % do mínimo líquido, conferido também por 1.499,43 ÷ custo. CF-0014 usou o mínimo bruto (SP 1,93 em jan/26); por isso o carrossel mostra também o bruto de SP (1,70). Seções por capital a partir da p. 18 não lidas literalmente e não usadas.
 
+- 28/11 (pauta #23, município menos populoso): descartada para 29/11 por repetir o CF-0009 (Serra da Saudade, 857 hab., já publicado em 19/10). Trocada por CF-0067 (curiosidade nova do Censo 2022).
+- 28/11 (CF-0067): PDF do IBGE "Primeiros resultados do Censo 2022 – População por idade e sexo" (agenciadenoticias.ibge.gov.br, arquivo ca93b770...) lido em extração de texto, sem número de página; data de publicação não aparece no texto. Usados: total 203.080.756 (2ª apuração), 104.548.325 mulheres (51,5%), 98.532.431 homens (48,5%), extremos municipais Santos (SP) 82,89 e Balbinos (SP) 443,64. Diferença 6.015.894 e razão 94,2 são contas nossas. Razão de 2010, faixa etária da virada e razão por UF não confirmadas e não usadas. Motivo da razão alta de Balbinos não consta do documento; o Reel diz isso.
+- 28/11 (CF-0068): EC 135/2024 na publicação original da Câmara (art. 239, § 3º e § 3º-A, trechos curtos); sem regra de transição com valor em reais na EC. Lei 7.998/1990, art. 9º, lida no compilado do Planalto em paráfrase/trechos curtos (Câmara não abriu: PROVENANCE_REQUIRED); a lei ainda fala em 2 SM médios, mas vale a CF. R$ 2.766, R$ 2.640, INPC 4,77%, 26,9 mi, R$ 33,5 bi, calendário e prazo de 29/12/2026 (e pedido em até 5 anos) na notícia da Agência Gov/MTE de 16/02/2026; não conferido se houve mudança depois. Salário mínimo de R$ 1.621 (2026) conferido no CF-0014 e na tabela da mesma notícia. Arredondamento para cima pelo art. 9º, § 4º. Requisito de informação do empregador na RAIS/eSocial não lido e não usado.
+
 Depois de 29/10, criar novas pautas no mesmo mix: 50% dinheiro e Brasil em números, 20% golpes e
 proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir pauta já publicada.
 
@@ -211,7 +217,7 @@ proteção, 20% fatos que parecem mentira, 10% checagem de virais. Nunca repetir
 | 27/11 19h ✔ CF-0063 | Carrossel | Por que a 2ª parcela do 13º vem menor (#8) | Lei 4.749/1965; Receita Federal |
 | 28/11 12h ✔ CF-0065 | Reel | Quantas línguas indígenas o Brasil tem (#24) | IBGE, Censo 2022 |
 | 28/11 19h ✔ CF-0066 | Carrossel | Quantas cestas básicas o salário mínimo compra (#20) | DIEESE, Cesta Básica |
-| 29/11 12h | Reel | O município menos populoso do Brasil (#23) | IBGE, Censo 2022 |
-| 29/11 19h | Carrossel | Abono salarial: quem tem direito (#10) | Lei 7.998/1990, art. 9º; MTE |
+| 29/11 12h ✘ (trocada por CF-0067) | Reel | O município menos populoso do Brasil (#23) | IBGE, Censo 2022 |
+| 29/11 19h ✔ CF-0068 | Carrossel | Abono salarial: quem tem direito (#10) | Lei 7.998/1990, art. 9º; MTE |
 | 30/11 12h | Reel | Trabalhou no feriado? Pagamento em dobro (#11) | Lei 605/1949, art. 9º; TST Súmula 146 |
 | 30/11 19h | Carrossel | Pagar só o mínimo do cartão: a conta (#2) | Banco Central, taxas médias; Res. CMN do rotativo |
